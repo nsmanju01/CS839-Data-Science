@@ -1,4 +1,4 @@
-+ Advisor : [Prof. AnHai Doan] (http://pages.cs.wisc.edu/~anhai/)
++ Advisor : Prof. AnHai Doan (http://pages.cs.wisc.edu/~anhai/)
 
 
 ## Members
