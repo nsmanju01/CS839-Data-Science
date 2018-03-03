@@ -1,1 +1,0 @@
-1) ENTITY TYPE - PERSON NAMES ARE MARKED UP IN THE DOCUMENT USING <person> and </person> tags.
