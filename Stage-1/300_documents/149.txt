@@ -1,0 +1,5 @@
+<person>Blair</person> returns from peace mission
+
+Prime Minister <person>Tony Blair</person> has arrived back from his diplomatic mission to the Middle East to try to resurrect the peace process.
+
+Mr <person>Blair</person> held talks with his Israeli counterpart, <person>Ariel Sharon</person>, and the Palestinian leader, <person>Mahmoud Abbas</person>. He confirmed that a renewed drive to reform the Palestinian Authority and address security issues would come at a London conference in March. Mr <person>Blair</person> also made a surprise trip to Iraq this week. The Israelis described the meeting as important but said they would not need to attend. Mr Blair briefly visited the tomb of <person>Yasser Arafat</person> in Ramallah - the first world leader to do so. He nodded briefly towards the tomb, rather than lay a wreath, in what Palestinian officials said was a compromise gesture agreed at the last minute.
