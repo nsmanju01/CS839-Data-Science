@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[ ]:
 import hashlib
 import operator
 import glob
@@ -83,7 +82,7 @@ def feature_12_word_length(name,line,start,end):
 
 
     
-#check if the 's is present at the end of the string      
+#check if the 's or s' is present at the end of the string      
 def feature_1_name_with_apostrophe(name, line, start, end):
     
     suffix = name[-2:]
@@ -118,9 +117,9 @@ def feature_3_prefix_new_line(name,line,start,end):
     #return check_new_line(name,line,start,end)
     
 
-
+#check if the given prefixes are present
 def feature_4_prefix_medium(name,line,start,end):
-    
+    #identified prefix list
     prefix_word_list = ['and','said','leader','prime minister','justice','chairman','secretary','chancellor','reporter','journalist',
                'pm','president','mp','spokesperson','reporter','candidate']
     index = start
@@ -140,7 +139,7 @@ def feature_4_prefix_medium(name,line,start,end):
         return 1
     else:
         return 0
-    
+#check if the given suffixes are present
 def feature_5_prefix_strong(name,line,start,end):
     
     prefix_word_list = ['mr','ms','mrs','dr','lord','sir','lady','prince','minister','director','president','spokesman','spokeswoman']
@@ -162,6 +161,7 @@ def feature_5_prefix_strong(name,line,start,end):
         return 0,int(hashlib.md5(prefix).hexdigest()[:8], 16)
     
 
+#check if the word ends with comma or full stop
 def feature_6_suffix_with_character(name,line,start,end):
     suffix = line[end:end+1]
 
@@ -173,6 +173,7 @@ def feature_6_suffix_with_character(name,line,start,end):
     
     
 #f7 should not be called ,if a check on the comma and full stop has become true    
+#check if the suffixes are as given in the list
 def feature_7_suffix_with_strong_words(name, line, start, end):
     character_count = len(line)
     suffix__word_list = ['said','told','claimed','mp','spokesman','spokesperson','spokeswoman','sr','jr','and','-','has','had']
@@ -194,7 +195,7 @@ def feature_7_suffix_with_strong_words(name, line, start, end):
     else:
         return 0,int(hashlib.md5(suffix).hexdigest()[:8], 16)
     
-    
+#check if the suffixes are as given in the list
 def feature_8_suffix_with_strong_words(name, line, start, end):
     suffix__word_list = ['is','and']
     character_count = len(line)
@@ -212,7 +213,8 @@ def feature_8_suffix_with_strong_words(name, line, start, end):
         return 1
     else:
         return 0
-    
+
+#if these words are present make them as negative feature
 def feature_9_words_with_exhaustive_list(name,line,start,end):
     lst = ['mr','mrs','ms','lord','leader','prime minister','justice','chairman','secretary','chancellor','reporter','journalist',
                'pm','minister','president','mp','spokesman','spokesperson','spokeswoman',
@@ -228,7 +230,8 @@ def feature_9_words_with_exhaustive_list(name,line,start,end):
         return 1
     else:
         return 0
-    
+ 
+#if the prefix contains these words and suffix is capitalized word then it is a feature for negative sample   
 def feature_10_words_with_exhaustive_list(name,line,start,end):
     prefix_word_list = ['mr','ms','mrs','dr']
     character_count = len(line)
@@ -269,6 +272,7 @@ def feature_10_words_with_exhaustive_list(name,line,start,end):
     else:
         return 0
 
+#if the prefix starts with small letter and suffix starts with small letter, it is a feature for positive sample
 def feature_13_word_with_non_capital_prefix_suffix(name,line,start,end):
     #prefix fetch start
     character_count = len(line)
@@ -307,7 +311,8 @@ def feature_13_word_with_non_capital_prefix_suffix(name,line,start,end):
         return 0
 
     
-    
+
+#this feature checks if the word has a salutation - it is considered as a strong feature
 def feature_11_words_with_exhaustive_list(name,line,start,end):
     prefix_word_list = ['mr','ms','mrs','dr']
     #prefix fetch start
@@ -344,7 +349,7 @@ def remove_tags(input):
     return input
 
 
-
+#negative sample generator
 def generate_candidates(line, stop_word_list):
     actual_names_with_iter = find_person(line)
     actual_names_without_iter = []
@@ -355,7 +360,6 @@ def generate_candidates(line, stop_word_list):
     
     candidates = set(re.finditer("[A-Z][a-zA-Z']*", line))
     candidates.update(re.finditer("[A-Z][a-zA-Z']* [A-Z][a-zA-Z']*", line))
-    #candidates.update(re.finditer("[A-Z][a-zA-Z']* [A-Z][a-zA-Z']* [A-Z][a-zA-Z']*", line))
     negative_candidates = []
 
     
@@ -437,7 +441,7 @@ def parse_file_and_get_features(filename,stop_word_list):
 
     return features,labels,z
 
-def after_cross_validation():
+def train_and_test():
     with open("stop_words.txt") as f:
         stop_word_list = f.read().splitlines() 
         
@@ -561,15 +565,12 @@ def cross_validation():
 
 
 def main():
-        #for i in range(5):
-        #    print '##############iterate#########',i
-
 
         #training phase - cross validation is done here
-        #cross_validation()
+        cross_validation()
 
         #testing after the cross validation phase
-        after_cross_validation()
+        #train_and_test()
     
 
         
