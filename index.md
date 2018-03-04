@@ -14,5 +14,6 @@
 + [J-Folder](https://github.com/nsmanju01/CS839-Data-Science/tree/master/Stage-1/J-FOLDER)
 + [Browsable Code](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-1/src)
 + [Zipped Folder](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-1/Stage-1.zip)
++ [Stage-1 Report](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-1/Project%20Stage-1%20Report.pdf)
 
 
