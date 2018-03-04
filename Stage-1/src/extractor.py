@@ -120,8 +120,8 @@ def feature_3_prefix_new_line(name,line,start,end):
 #check if the given prefixes are present
 def feature_4_prefix_medium(name,line,start,end):
     #identified prefix list
-    prefix_word_list = ['and','said','leader','prime minister','justice','chairman','secretary','chancellor','reporter','journalist',
-               'pm','president','mp','spokesperson','reporter','candidate']
+    prefix_word_list = ['and','said','leader','justice','chairman','secretary','chancellor','reporter','journalist',
+               'pm','mp','candidate']
     index = start
     while line[index-1] == " ":
         index = index - 1
@@ -142,7 +142,7 @@ def feature_4_prefix_medium(name,line,start,end):
 #check if the given suffixes are present
 def feature_5_prefix_strong(name,line,start,end):
     
-    prefix_word_list = ['mr','ms','mrs','dr','lord','sir','lady','prince','minister','director','president','spokesman','spokeswoman']
+    prefix_word_list = ['mr','ms','mrs','dr','lord','sir','lady','prince','minister','director','president','spokesman','spokeswoman','spokesperson','prime minister']
     index = start
     while line[index-1] == " ":
         index = index - 1
@@ -567,10 +567,10 @@ def cross_validation():
 def main():
 
         #training phase - cross validation is done here
-        cross_validation()
+        #cross_validation()
 
         #testing after the cross validation phase
-        #train_and_test()
+        train_and_test()
     
 
         
