@@ -567,10 +567,10 @@ def cross_validation():
 def main():
 
         #training phase - cross validation is done here
-        #cross_validation()
+        cross_validation()
 
         #testing after the cross validation phase
-        train_and_test()
+        #train_and_test()
     
 
         
