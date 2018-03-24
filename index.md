@@ -16,4 +16,9 @@
 + [Zipped Folder](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-1/Stage-1.zip)
 + [Stage-1 Report](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-1/Project%20Stage-1%20Report.pdf)
 
+## Stage 2 Report
++ [Data Directory](https://github.com/nsmanju01/CS839-Data-Science/tree/master/Stage-2/data)
++ [Code Directory](https://github.com/nsmanju01/CS839-Data-Science/tree/master/Stage-2/code)
++ [Stage-2 Report](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-2/Stage2_Report.pdf)
+
 
