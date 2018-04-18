@@ -1,4 +1,4 @@
-IMDB data - 3050 stuples
+IMDB data - 3050 tuples
 
 id - manually generated id
 name - name of the movie
