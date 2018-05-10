@@ -1,0 +1,777 @@
+,name,release_year,certificate,genre,director,actors,runtime,gross,production_house
+0,Barton Fink,1991.0,R,Crime,_Ethan Coen_Joel Coen,_John Turturro_John Goodman_Judy Davis_Michael Lerner,116,6153939,Twentieth Century Fox Film Corporation
+1,Toy Story,1995.0,G,Family,John Lasseter,_Tom Hanks_Tim Allen_Don Rickles_Jim Varney,81,191796233,Buena Vista Pictures
+2,Twister,1996.0,PG-13,Thriller,Jan de Bont,_Helen Hunt_Bill Paxton_Cary Elwes_Jami Gertz,113,241721524,Warner Bros. Pictures
+3,Bonnie and Clyde,1967.0,R,Crime,Arthur Penn,_Warren Beatty_Faye Dunaway_Michael J. Pollard_Gene Hackman,112,-1000,Warner Brothers/Seven Arts
+4,Arrival,2016.0,PG-13,Thriller,Denis Villeneuve,_Amy Adams_Forest Whitaker_Jeremy Renner_Michael Stuhlbarg,116,100546139,Paramount Pictures
+5,The Fly,1986.0,R,Horror,David Cronenberg,_Jeff Goldblum_Geena Davis_John Getz_Joy Boushel,96,40456565,Twentieth Century Fox Film Corporation
+6,Four Lions,2010.0,R,Comedy,Christopher Morris,_Will Adamsdale_Riz Ahmed_Adeel Akhtar_Arsher Ali,97,304137,Drafthouse Films
+7,Eternal Sunshine of the Spotless Mind,2004.0,R,Romance,Michel Gondry,_Jim Carrey_Kate Winslet_Tom Wilkinson_Gerry Robert Byrne,108,34400301,Focus Features
+8,Kung Fu Panda 2,2011.0,PG,Family,Jennifer Yuh Nelson,_Jack Black_Angelina Jolie_Jackie Chan_Dustin Hoffman,90,165249063,Paramount Pictures
+9,Halloween,1978.0,R,Horror,John Carpenter,_Donald Pleasence_Jamie Lee Curtis_Tony Moran_Nancy Kyes,91,47000000,Compass International Pictures
+10,The LEGO Movie,2014.0,PG,Family,_Christopher Miller_Phil Lord,_Alison Brie_Amanda Farinos_Anthony Daniels_Charlie Day_Chris Pratt_Craig Berry_David Burrows_Elizabeth Banks_Liam Neeson_Morgan Freeman_Nick Offerman_Will Arnett_Will Ferrell,100,257760692,Warner Bros. Pictures
+11,Let Me In,2010.0,R,Romance,Matt Reeves,_Kodi Smit-McPhee_Chloë Grace Moretz_Richard Jenkins_Cara Buono,116,12134420,Overture Films
+12,My Left Foot,1990.0,R,Drama,Jim Sheridan,_Daniel Day-Lewis_Brenda Fricker_Alison Whelan_Kirsten Sheridan,103,14743391,Miramax
+13,Gravity,2013.0,PG-13,Thriller,Alfonso Cuarón,_Sandra Bullock_George Clooney_Ed Harris_Orto Ignatiussen,91,274092705,Warner Bros. Pictures
+14,Apocalypse Now,1979.0,R,War,Francis Ford Coppola,_Martin Sheen_Marlon Brando_Robert Duvall_Frederic Forrest,153,83471511,United Artists
+15,Speed,1994.0,R,Thriller,Jan de Bont,_Keanu Reeves_Dennis Hopper_Sandra Bullock_Joe Morton,116,121248145,Twentieth Century Fox Film Corporation
+16,Superbad,2007.0,R,Comedy,Greg Mottola,_Michael Cera_Jonah Hill_Christopher Mintz-Plasse_Bill Hader,113,121463226,Columbia Pictures
+17,All the President's Men,1976.0,PG,Thriller,Alan J. Pakula,_Dustin Hoffman_Hal Holbrook_Jack Warden_Jane Alexander_Jason Robards_Martin Balsam_Meredith Baxter_Ned Beatty_Robert Redford_Stephen Collins,138,70600000,Warner Bros.
+18,Bullitt,1968.0,M/PG,Crime,Peter Yates,_Carl Reindel_Don Gordon_Georg Stanford Brown_Jacqueline Bisset_Justin Tarr_Norman Fell_Robert Duvall_Robert Vaughn_Simon Oakland_Steve McQueen,114,42300873,Warner Brothers/Seven Arts
+19,Days of Heaven,1978.0,PG,Romance,Terrence Malick,_Richard Gere_Brooke Adams_Sam Shepard_Linda Manz,94,-1000,Paramount Pictures
+20,The Nightmare Before Christmas,1993.0,PG,Musical,Henry Selick,_Catherine O'Hara_Chris Sarandon_Danny Elfman_William Hickey,76,75082668,Buena Vista Pictures
+21,Kubo and the Two Strings,2016.0,PG,Family,Travis Knight,_Art Parkinson_Brenda Vaccaro_Cary-Hiroyuki Tagawa_Charlize Theron_George Takei_Matthew McConaughey_Ralph Fiennes_Rooney Mara,101,48023088,Focus Features
+22,Superman III,1983.0,PG,Romance,_Richard Donner_Richard Lester,_Christopher Reeve_Richard Pryor_Margot Kidder_Jackie Cooper,127,59950623,Warner Bros. Pictures
+23,Clerks,1994.0,R,Comedy,Kevin Smith,_Brian O'Halloran_Jeff Anderson_Marilyn Ghigliotti_Lisa Spoonauer,92,3151130,Miramax Films
+24,The Grand Budapest Hotel,2014.0,R,Comedy,Wes Anderson,_Adrien Brody_Bill Murray_Edward Norton_F. Murray Abraham_Harvey Keitel_Jeff Goldblum_Jude Law_Léa Seydoux_Mathieu Amalric_Ralph Fiennes_Saoirse Ronan_Willem Dafoe,100,59100318,Fox Searchlight Pictures
+25,Memento,2001.0,R,Thriller,Christopher Nolan,_Guy Pearce_Carrie-Anne Moss_Joe Pantoliano_Mark Boone Junior,113,25544867,Newmarket Films
+26,Juno,2007.0,PG-13,Comedy,Jason Reitman,_Ellen Page_Michael Cera_Jennifer Garner_Jason Bateman,96,143495265,Fox Searchlight Pictures
+27,Bernie,2012.0,PG-13,Crime,Richard Linklater,_Jack Black_Shirley MacLaine_Matthew McConaughey_Brady Coleman,104,9203192,Millennium Entertainment
+28,Breaking the Waves,1996.0,R,Drama,Lars von Trier,_Emily Watson_Stellan Skarsgård_Katrin Cartlidge_Jean-Marc Barr,159,4040691,October Films
+29,Close Encounters of the Third Kind,1977.0,PG,Drama,Steven Spielberg,_Richard Dreyfuss_François Truffaut_Teri Garr_Melinda Dillon,135,132088635,Columbia Pictures
+30,The Adventures of Tintin,2011.0,PG,Family,Steven Spielberg,_Jamie Bell_Andy Serkis_Daniel Craig_Simon Pegg,107,77591831,Paramount Pictures
+31,Batman Returns,1992.0,PG-13,Action,Tim Burton,_Michael Keaton_Danny DeVito_Michelle Pfeiffer_Christopher Walken,126,162831698,Warner Bros.
+32,Lars and the Real Girl,2007.0,PG-13,Comedy,Craig Gillespie,_Ryan Gosling_Emily Mortimer_Paul Schneider_R.D. Reid,106,5972884,Metro-Goldwyn-Mayer (MGM)
+33,(500) Days of Summer,2009.0,PG-13,Romance,Marc Webb,_Zooey Deschanel_Joseph Gordon-Levitt_Geoffrey Arend_Chloë Grace Moretz,95,32391374,Fox Searchlight Pictures
+34,The Terminator,1984.0,R,Thriller,James Cameron,_Arnold Schwarzenegger_Linda Hamilton_Michael Biehn_Paul Winfield,107,38400000,Orion Pictures
+35,The Celebration,1998.0,R,Drama,Thomas Vinterberg,_Ulrich Thomsen_Henning Moritzen_Thomas Bo Larsen_Paprika Steen,105,1647780,October Films
+36,Adventureland,2009.0,R,Romance,Greg Mottola,_Jesse Eisenberg_Kristen Stewart_Ryan Reynolds_Kelsey Ledgin,107,16025394,Miramax Films
+37,The Darjeeling Limited,2007.0,R,Comedy,Wes Anderson,_Owen Wilson_Adrien Brody_Jason Schwartzman_Amara Karan,91,11902715,Fox Searchlight Pictures
+38,The Amazing Spider-Man,2012.0,PG-13,Fantasy,Marc Webb,_Andrew Garfield_Emma Stone_Irrfan Khan_Martin Sheen_Rhys Ifans_Sally Field,136,262030663,Columbia Pictures
+39,Up in the Air,2009.0,R,Romance,Jason Reitman,_George Clooney_Vera Farmiga_Anna Kendrick_Jason Bateman,0,83823381,Paramount Pictures
+40,The Assassination of Jesse James by the Coward Robert Ford,2007.0,R,Western,Andrew Dominik,_Brad Pitt_Casey Affleck_Sam Shepard_Mary-Louise Parker,160,3904982,Warner Bros. Pictures
+41,Minority Report,2002.0,PG-13,Thriller,Steven Spielberg,_Tom Cruise_Colin Farrell_Samantha Morton_Max von Sydow,145,132072926,Twentieth Century Fox Film Corporation
+42,Happiness,1998.0,Unrated,Comedy,Todd Solondz,_Jane Adams_Jon Lovitz_Philip Seymour Hoffman_Dylan Baker,134,2807390,Good Machine
+43,The Insider,1999.0,R,Thriller,Michael Mann,_Russell Crowe_Al Pacino_Christopher Plummer_Diane Venora,157,28965197,Touchstone Home Video
+44,Avatar,2009.0,PG-13,Fantasy,James Cameron,_Sam Worthington_Zoe Saldana_Sigourney Weaver_Michelle Rodriguez,162,760507625,Twentieth Century Fox Film Corporation
+45,Election,1999.0,R,Romance,Alexander Payne,_Matthew Broderick_Reese Witherspoon_Chris Klein_Jessica Campbell,103,14879556,Paramount Pictures
+46,Everybody Wants Some!!,2016.0,R,Comedy,Richard Linklater,_Blake Jenner_Ryan Guzman_Tyler Hoechlin_Zoey Deutch,117,3369431,Paramount Pictures
+47,Ghost Dog: The Way of the Samurai,2000.0,R,Crime,Jim Jarmusch,_Forest Whitaker_Henry Silva_John Tormey_Cliff Gorman,116,3308029,Artisan Entertainment
+48,The Way Back,2011.0,PG-13,Drama,Peter Weir,_Jim Sturgess_Ed Harris_Colin Farrell_Dragos Bucur,133,2701859,Newmarket Films
+49,Flight,2012.0,R,Drama,Robert Zemeckis,_Denzel Washington_Nadine Velazquez_Don Cheadle_John Goodman,138,93772375,Paramount Pictures
+50,Superman II,1981.0,PG,Romance,_Richard Donner_Richard Lester,_Gene Hackman_Christopher Reeve_Margot Kidder_Ned Beatty,127,108185706,Warner Bros. Pictures
+51,Amélie,2001.0,R,Romance,Jean-Pierre Jeunet,_Audrey Tautou_Mathieu Kassovitz_Rufus_Lorella Cravotta,122,33225499,Miramax Films
+52,Thirteen Days,2000.0,PG-13,Thriller,Roger Donaldson,_Kevin Costner_Bruce Greenwood_Shawn Driscoll_Drake Cook,145,34592089,New Line Cinema
+53,In the Loop,2009.0,Not Rated,Comedy,Armando Iannucci,_Tom Hollander_Peter Capaldi_James Gandolfini_Harry Hadden-Paton,106,2384044,IFC Films
+54,The Bad Lieutenant: Port of Call - New Orleans,2009.0,R,Crime,Werner Herzog,_Nicolas Cage_Eva Mendes_Russell M. Haeuser_Val Kilmer,122,1697956,First Look Pictures
+55,One Flew Over the Cuckoo's Nest,1975.0,R,Drama,Milos Forman,_Jack Nicholson_Louise Fletcher_Michael Berryman_Peter Brocco,133,112000000,United Artists
+56,La Vie en Rose,2007.0,PG-13,Music,Olivier Dahan,_Marion Cotillard_Sylvie Testud_Pascal Greggory_Emmanuelle Seigner,140,10301706,Picturehouse Entertainment
+57,Babel,2006.0,R,Drama,Alejandro González Iñárritu,_Brad Pitt_Cate Blanchett_Gael García Bernal_Mohamed Akhzam,143,34302837,Paramount Vantage
+58,Chef,2014.0,R,Comedy,Jon Favreau,_Bobby Cannavale_Dustin Hoffman_John Leguizamo_Jon Favreau_Robert Downey Jr._Scarlett Johansson_Sofía Vergara,114,30640336,Open Road Films
+59,Django Unchained,2012.0,R,Western,Quentin Tarantino,_Christoph Waltz_Don Johnson_Jamie Foxx_Kerry Washington_Leonardo DiCaprio_Samuel L. Jackson,165,162805434,"Weinstein Company, The"
+60,Born on the Fourth of July,1989.0,R,War,Oliver Stone,_Tom Cruise_Raymond J. Barry_Caroline Kava_Josh Evans,145,70001698,Universal Pictures
+61,Manhattan,1979.0,R,Romance,Woody Allen,_Woody Allen_Diane Keaton_Mariel Hemingway_Michael Murphy,96,45700000,United Artists
+62,Splice,2010.0,R,Horror,Vincenzo Natali,_Adrien Brody_Sarah Polley_Delphine Chanéac_Brandon McGibbon,104,16999046,Warner Bros. Pictures
+63,Guardians of the Galaxy,2014.0,PG-13,Sci-Fi,James Gunn,_Bradley Cooper_Chris Pratt_Dave Bautista_Lee Pace_Vin Diesel_Zoe Saldana,121,333176600,Walt Disney Studios Motion Pictures
+64,The Dark Knight Rises,2012.0,PG-13,Crime,Christopher Nolan,_Anne Hathaway_Christian Bale_Gary Oldman_Joseph Gordon-Levitt_Marion Cotillard_Michael Caine_Morgan Freeman_Tom Hardy,165,448139099,Warner Bros. Pictures
+65,Easy Rider,1969.0,R,Crime,Dennis Hopper,_Peter Fonda_Dennis Hopper_Jack Nicholson_Antonio Mendoza,95,41728598,Columbia Pictures
+66,Full Metal Jacket,1987.0,R,War,Stanley Kubrick,_Matthew Modine_R. Lee Ermey_Vincent D'Onofrio_Adam Baldwin,116,46357676,Warner Bros. Pictures
+67,Moulin Rouge!,2001.0,PG-13,Musical,Baz Luhrmann,_Nicole Kidman_Ewan McGregor_John Leguizamo_Jim Broadbent,127,57386607,Twentieth Century Fox Film Corporation
+68,Toy Story 3,2010.0,G,Family,Lee Unkrich,_Tom Hanks_Tim Allen_Joan Cusack_Ned Beatty,103,415004880,Walt Disney Studios Motion Pictures
+69,Mean Girls,2004.0,PG-13,Comedy,Mark Waters,_Lindsay Lohan_Jonathan Bennett_Rachel McAdams_Tina Fey,97,86058055,Paramount Pictures
+70,It Follows,2015.0,R,Horror,David Robert Mitchell,_Bailey Spry_Daniel Zovatto_Jake Weary_Keir Gilchrist_Lili Sepe_Linda Boston_Maika Monroe_Olivia Luccardi_Ruby Harris,100,14673301,RADiUS-TWC
+71,Dark City,1998.0,R,Crime,Alex Proyas,_Rufus Sewell_Kiefer Sutherland_Jennifer Connelly_William Hurt,100,14378331,New Line Cinema
+72,Over the Hedge,2006.0,PG,Family,_Karey Kirkpatrick_Tim Johnson,_Bruce Willis_Garry Shandling_Steve Carell_Wanda Sykes,83,155019340,Paramount Pictures
+73,The Departed,2006.0,R,Crime,Martin Scorsese,_Leonardo DiCaprio_Matt Damon_Jack Nicholson_Mark Wahlberg,151,132384315,Warner Bros. Pictures
+74,Primer,2004.0,PG-13,Thriller,Shane Carruth,_Anand Upadhyaya_Casey Gooden_David Sullivan_Shane Carruth,77,424760,thinkfilm
+75,American Hustle,2013.0,R,Crime,David O. Russell,_Alessandro Nivola_Amy Adams_Bradley Cooper_Christian Bale_Jennifer Lawrence_Jeremy Renner_Louis C.K._Robert De Niro,138,150117807,Columbia Pictures
+76,A Simple Plan,1998.0,R,Crime,Sam Raimi,_Bill Paxton_Billy Bob Thornton_Bridget Fonda_Brent Briscoe,121,16311763,Paramount Pictures
+77,Kramer vs. Kramer,1979.0,PG,Drama,Robert Benton,_Dustin Hoffman_Meryl Streep_Jane Alexander_Justin Henry,105,106260000,Columbia Pictures
+78,Enchanted,2007.0,PG,Musical,Kevin Lima,_Amy Adams_Susan Sarandon_James Marsden_Patrick Dempsey,107,127807262,Walt Disney Studios Motion Pictures
+79,Steve Jobs,2015.0,R,Drama,Danny Boyle,_Jeff Daniels_Kate Winslet_Michael Fassbender_Seth Rogen,122,17750583,Universal Pictures
+80,Gone Girl,2014.0,R,Thriller,David Fincher,_Ben Affleck_Neil Patrick Harris_Rosamund Pike_Tyler Perry,149,167767189,Twentieth Century Fox Film Corporation
+81,Risky Business,1983.0,R,Comedy,Paul Brickman,_Tom Cruise_Rebecca De Mornay_Joe Pantoliano_Richard Masur,98,63500000,Warner Bros. Pictures
+82,Sausage Party,2016.0,R,Animation,_Conrad Vernon_Greg Tiernan,_Seth Rogen_Kristen Wiig_Jonah Hill_Alistair Abell,89,97661826,Columbia Pictures
+83,A Clockwork Orange,1971.0,R,Crime,Stanley Kubrick,_Malcolm McDowell_Patrick Magee_Michael Bates_Warren Clarke,136,-1000,Warner Bros. Pictures
+84,Annie Hall,1977.0,PG,Romance,Woody Allen,_Woody Allen_Diane Keaton_Tony Roberts_Carol Kane,93,39200000,United Artists
+85,Animal Kingdom,2010.0,R,Crime,David Michôd,_James Frecheville_Guy Pearce_Joel Edgerton_Bryce Lindemann,113,1044039,Sony Pictures Classics
+86,The Hunger Games: Catching Fire,2013.0,PG-13,Thriller,Francis Lawrence,_Jennifer Lawrence_Josh Hutcherson_Liam Hemsworth_Philip Seymour Hoffman,146,424668047,Lionsgate
+87,Waking Life,2001.0,R,Animation,Richard Linklater,_Ethan Hawke_Trevor Jack Brooks_Lorelei Linklater_Wiley Wiggins,99,2892011,Fox Searchlight Pictures
+88,Midnight Run,1988.0,R,Crime,Martin Brest,_Robert De Niro_Charles Grodin_Yaphet Kotto_John Ashton,126,38413606,Universal Pictures
+89,Melancholia,2011.0,R,Thriller,Lars von Trier,_Kirsten Dunst_Charlotte Gainsbourg_Kiefer Sutherland_Alexander Skarsgård,137,3029870,Magnolia Films
+90,Airplane!,1980.0,PG,Comedy,_David Zucker_Jerry Zucker_Jim Abrahams,_Robert Hays_Julie Hagerty_Leslie Nielsen_Kareem Abdul-Jabbar,88,83400000,Paramount Pictures
+91,Fantastic Mr. Fox,2009.0,PG,Family,Wes Anderson,_George Clooney_Meryl Streep_Bill Murray_Jason Schwartzman,87,21002919,Twentieth Century Fox Film Corporation
+92,Lethal Weapon,1987.0,R,Crime,Richard Donner,_Mel Gibson_Danny Glover_Gary Busey_Mitchell Ryan,110,65207127,Warner Bros. Pictures
+93,The Spectacular Now,2013.0,R,Romance,James Ponsoldt,_Andre Royo_Bob Odenkirk_Brie Larson_Jennifer Jason Leigh_Kyle Chandler_Mary Elizabeth Winstead_Miles Teller_Shailene Woodley,95,6851969,A24
+94,Dead Man Walking,1995.0,R,Crime,Tim Robbins,_Susan Sarandon_Sean Penn_Robert Prosky_Raymond J. Barry,122,39387284,Gramercy Pictures (I)
+95,The Bling Ring,2013.0,R,Crime,Sofia Coppola,_Carlos Miranda_Claire Julien_Emma Watson_Gavin Rossdale_Georgia Rock_Israel Broussard_Katie Chang_Leslie Mann_Taissa Farmiga,90,5841046,A24
+96,Life of Pi,2012.0,PG,Drama,Ang Lee,_Adil Hussain_Ayush Tandon_Gérard Depardieu_Irrfan Khan_Suraj Sharma_Tabu_Tobey Maguire,127,124987023,Twentieth Century Fox Film Corporation
+97,Shanghai Noon,2000.0,PG-13,Western,Tom Dey,_Jackie Chan_Owen Wilson_Lucy Liu_Brandon Merrill,110,56937502,Buena Vista Pictures
+98,Little Children,2006.0,R,Romance,Todd Field,_Jackie Earle Haley_Jennifer Connelly_Kate Winslet_Patrick Wilson,136,5463019,New Line Cinema
+99,Singin' in the Rain,1952.0,G,Musical,_Gene Kelly_Stanley Donen,_Cyd Charisse_Dawn Addams_Debbie Reynolds_Donald O'Connor_Douglas Fowley_Gene Kelly_Jean Hagen_John Albright_Millard Mitchell_Rita Moreno,103,8819028,Metro-Goldwyn-Mayer (MGM)
+100,Jerry Maguire,1996.0,R,Romance,Cameron Crowe,_Tom Cruise_Cuba Gooding Jr._Renée Zellweger_Kelly Preston,139,153952592,TriStar Pictures
+101,Fracture,2007.0,R,Crime,Gregory Hoblit,_Anthony Hopkins_Ryan Gosling_David Strathairn_Rosamund Pike,113,39015018,New Line Cinema
+102,Persepolis,2007.0,PG-13,Animation,_Marjane Satrapi_Vincent Paronnaud,_Chiara Mastroianni_Catherine Deneuve_Gena Rowlands_Danielle Darrieux,96,4443403,Sony Pictures Classics
+103,Willy Wonka & the Chocolate Factory,1971.0,G,Musical,Mel Stuart,_Denise Nickerson_Gene Wilder_Jack Albertson_Julie Dawn Cole_Leonard Stone_Nora Denney_Paris Themmen_Peter Ostrum_Roy Kinnear_Ursula Reit,100,4000000,Paramount Pictures
+104,Suspiria,1977.0,R,Horror,Dario Argento,_Alida Valli_Barbara Magnolfi_Eva Axén_Flavio Bucci_Jessica Harper_Miguel Bosé_Rudolf Schündler_Stefania Casini_Susanna Javicoli_Udo Kier,98,-1000,Produzioni Atlas Consorziate (P.A.C.)
+105,About a Boy,2002.0,PG-13,Romance,_Chris Weitz_Paul Weitz,_Hugh Grant_Nicholas Hoult_Toni Collette_Sharon Small,101,41385278,Universal Pictures
+106,Haywire,2012.0,R,Thriller,Steven Soderbergh,_Gina Carano_Ewan McGregor_Michael Fassbender_Michael Angarano,93,18942396,Overture Films
+107,Shallow Grave,1995.0,R,Crime,Danny Boyle,_Kerry Fox_Christopher Eccleston_Ewan McGregor_Ken Stott,92,2881508,Gramercy Pictures (I)
+108,There Will Be Blood,2007.0,R,Drama,Paul Thomas Anderson,_Daniel Day-Lewis_Paul Dano_Ciarán Hinds_Martin Stringer,158,40222514,Paramount Vantage
+109,Double Indemnity,1944.0,Not Rated,Film-Noir,Billy Wilder,_Barbara Stanwyck_Byron Barr_Edward G. Robinson_Fortunio Bonanova_Fred MacMurray_Jean Heather_John Philliber_Porter Hall_Richard Gaines_Tom Powers,107,5720000,Paramount Pictures
+110,The Guard,2011.0,R,Comedy,John Michael McDonagh,_Brendan Gleeson_Don Cheadle_Mark Strong_Ronan Collins,96,5359774,Sony Pictures Classics
+111,Carol,2015.0,R,Romance,Todd Haynes,_Cate Blanchett_Cory Michael Smith_Jake Lacy_John Magaro_Kyle Chandler_Rooney Mara_Sarah Paulson,118,12711491,"Weinstein Company, The"
+112,The Dead Zone,1983.0,R,Fantasy,David Cronenberg,_Christopher Walken_Brooke Adams_Tom Skerritt_Herbert Lom,103,20766000,Paramount Pictures
+113,End of Watch,2012.0,R,Crime,David Ayer,_America Ferrera_Anna Kendrick_Jake Gyllenhaal_Michael Peña,109,41003371,Open Road Films
+114,Notting Hill,1999.0,PG-13,Romance,Roger Michell,_Hugh Grant_Julia Roberts_Richard McCabe_Rhys Ifans,124,116089678,Universal Pictures
+115,Under the Skin,2014.0,R,Horror,Jonathan Glazer,_Scarlett Johansson_Jeremy McWilliams_Lynsey Taylor Mackay_Dougie McConnell,108,2605039,A24
+116,Spy,2015.0,R,Crime,Paul Feig,_Jason Statham_Jude Law_Melissa McCarthy_Rose Byrne,119,110825712,Twentieth Century Fox Film Corporation
+117,The Land Before Time,1988.0,G,Family,Don Bluth,_Pat Hingle_Gabriel Damon_Judith Barsi_Helen Shaver,69,48092846,Universal Pictures
+118,"Good Morning, Vietnam",1988.0,R,War,Barry Levinson,_Bruno Kirby_Chintara Sukapatana_Forest Whitaker_J.T. Walsh_Juney Smith_Noble Willingham_Richard Edson_Robert Wuhl_Robin Williams_Tung Thanh Tran,121,123922370,Buena Vista Pictures
+119,District 9,2009.0,R,Thriller,Neill Blomkamp,_Sharlto Copley_David James_Jason Cope_Nathalie Boltt,112,115646235,TriStar Pictures
+120,Like Crazy,2011.0,PG-13,Romance,Drake Doremus,_Felicity Jones_Anton Yelchin_Jennifer Lawrence_Charlie Bewley,90,3413908,Paramount Vantage
+121,Dazed and Confused,1993.0,R,Comedy,Richard Linklater,_Jason London_Matthew McConaughey_Rory Cochrane_Wiley Wiggins,102,7993039,Gramercy Pictures (I)
+122,Black Mass,2015.0,R,Crime,Scott Cooper,_Benedict Cumberbatch_Dakota Johnson_Joel Edgerton_Johnny Depp,122,62575678,Warner Bros.
+123,Milk,2008.0,R,Drama,Gus Van Sant,_Sean Penn_Josh Brolin_Emile Hirsch_Diego Luna,128,31841299,Focus Features
+124,Goldfinger,1965.0,PG,Thriller,Guy Hamilton,_Sean Connery_Gert Fröbe_Honor Blackman_Shirley Eaton,110,51081062,United Artists
+125,Die Hard 2,1990.0,R,Crime,Renny Harlin,_Bruce Willis_William Atherton_Bonnie Bedelia_Reginald VelJohnson,124,117540947,Twentieth Century Fox Film Corporation
+126,The Bourne Ultimatum,2007.0,PG-13,Thriller,Paul Greengrass,_Matt Damon_Edgar Ramírez_Joan Allen_Julia Stiles,115,227471070,Universal Pictures
+127,What We Do in the Shadows,2015.0,R,Comedy,_Jemaine Clement_Taika Waititi,_Cori Gonzalez-Macuer_Jemaine Clement_Jonathan Brugh_Taika Waititi,86,3333000,Unison Films
+128,Lady Vengeance,2006.0,R,Crime,Chan-wook Park,_Yeong-ae Lee_Min-sik Choi_Shi-hoo Kim_Yea-young Kwon,112,211667,Tartan
+129,Witness,1985.0,R,Romance,Peter Weir,_Harrison Ford_Kelly McGillis_Lukas Haas_Josef Sommer,112,68706993,Paramount Pictures
+130,"O Brother, Where Art Thou?",2000.0,PG-13,Music,_Ethan Coen_Joel Coen,_George Clooney_John Turturro_Tim Blake Nelson_John Goodman,106,45506619,Buena Vista Pictures
+131,To Kill a Mockingbird,1962.0,Not Rated,Crime,Robert Mulligan,_Gregory Peck_John Megna_Frank Overton_Rosemary Murphy,129,-1000,Universal Pictures
+132,"Crazy, Stupid, Love.",2011.0,PG-13,Romance,_Glenn Ficarra_John Requa,_Steve Carell_Ryan Gosling_Julianne Moore_Emma Stone,118,84351197,Warner Bros. Pictures
+133,Enough Said,2013.0,PG-13,Comedy,Nicole Holofcener,_Catherine Keener_James Gandolfini_Julia Louis-Dreyfus_Toni Collette,93,17536788,Fox Searchlight Pictures
+134,The Girl Who Played with Fire,2010.0,R,Crime,Daniel Alfredson,_Noomi Rapace_Michael Nyqvist_Lena Endre_Peter Andersson,129,9081782,Music Box Films
+135,The Informant!,2009.0,R,Comedy,Steven Soderbergh,_Matt Damon_Tony Hale_Patton Oswalt_Lucas McHugh Carroll,108,33313582,Warner Bros. Pictures
+136,The Adventures of Baron Munchausen,1989.0,PG,Comedy,Terry Gilliam,_John Neville_Eric Idle_Sarah Polley_Oliver Reed,126,8083123,Columbia Pictures
+137,Rabbit Hole,2010.0,PG-13,Drama,John Cameron Mitchell,_Nicole Kidman_Aaron Eckhart_Dianne Wiest_Miles Teller,91,2229058,Lionsgate
+138,Grindhouse,2007.0,R,Thriller,_Edgar Wright_Eli Roth_Quentin Tarantino_Rob Zombie_Robert Rodriguez,_Kurt Russell_Rose McGowan_Danny Trejo_Zoë Bell,191,25031037,"Weinstein Company, The"
+139,The Drop,2014.0,R,Crime,Michaël R. Roskam,_Tom Hardy_Noomi Rapace_James Gandolfini_Matthias Schoenaerts,106,10724389,Fox Searchlight Pictures
+140,The Last King of Scotland,2006.0,R,Thriller,Kevin Macdonald,_James McAvoy_Forest Whitaker_Gillian Anderson_Kerry Washington,123,17605861,Fox Searchlight Pictures
+141,Monster's Ball,2001.0,R,Romance,Marc Forster,_Billy Bob Thornton_Halle Berry_Taylor Simpson_Gabrielle Witcher,111,31252964,Lions Gate Films
+142,The Lost City of Z,2017.0,PG-13,History,James Gray,_Charlie Hunnam_Robert Pattinson_Sienna Miller_Tom Holland,141,8580410,Amazon Studios
+143,The Full Monty,1997.0,R,Music,Peter Cattaneo,_Robert Carlyle_Tom Wilkinson_Mark Addy_William Snape,91,45950122,Fox Searchlight Pictures
+144,Tootsie,1982.0,PG,Romance,Sydney Pollack,_Dustin Hoffman_Jessica Lange_Teri Garr_Dabney Coleman,116,177200000,Columbia Pictures
+145,The Lobster,2016.0,R,Romance,Giorgos Lanthimos,_Colin Farrell_Jessica Barden_Olivia Colman_Rachel Weisz,119,8699235,A24
+146,Doubt,2008.0,PG-13,Mystery,John Patrick Shanley,_Meryl Streep_Philip Seymour Hoffman_Amy Adams_Viola Davis,104,33422556,Miramax Films
+147,John Wick,2014.0,R,Thriller,_Chad Stahelski_David Leitch,_Adrianne Palicki_Alfie Allen_Bridget Moynahan_Dean Winters_Ian McShane_Keanu Reeves_Michael Nyqvist_Willem Dafoe,101,43037835,Summit Entertainment
+148,Clueless,1995.0,PG-13,Romance,Amy Heckerling,_Alicia Silverstone_Brittany Murphy_Paul Rudd_Stacey Dash,97,56631572,Paramount Pictures
+149,Trainspotting,1996.0,R,Drama,Danny Boyle,_Ewan McGregor_Ewen Bremner_Jonny Lee Miller_Kevin McKidd_Robert Carlyle,94,16501785,Miramax Films
+150,Never Say Never Again,1983.0,PG,Thriller,Irvin Kershner,_Sean Connery_Kim Basinger_Klaus Maria Brandauer_Max von Sydow,134,55500000,Warner Bros.
+151,Paranormal Activity,2009.0,R,Horror,Oren Peli,_Katie Featherston_Micah Sloat_Mark Fredrichs_Amber Armstrong,86,107918810,Paramount Pictures
+152,Apollo 13,1995.0,PG,History,Ron Howard,_Bill Paxton_Ed Harris_Gary Sinise_Kevin Bacon_Tom Hanks,140,173837933,Universal Pictures
+153,Guardians of the Galaxy Vol. 2,2017.0,PG-13,Comedy,James Gunn,_Bradley Cooper_Chris Pratt_Dave Bautista_Karen Gillan_Michael Rooker_Pom Klementieff_Sylvester Stallone_Vin Diesel_Zoe Saldana,136,389813101,Walt Disney Studios Motion Pictures
+154,Once,2007.0,R,Music,John Carney,_Glen Hansard_Markéta Irglová_Hugh Walsh_Gerard Hendrick,85,9439923,Fox Searchlight Pictures
+155,The Talented Mr. Ripley,1999.0,R,Crime,Anthony Minghella,_Matt Damon_Gwyneth Paltrow_Jude Law_Cate Blanchett,139,81298265,Miramax Films
+156,Before Midnight,2013.0,R,Romance,Richard Linklater,_Ariane Labed_Athina Rachel Tsangari_Ethan Hawke_Julie Delpy_Seamus Davey-Fitzpatrick_Walter Lassally_Xenia Kalogeropoulou,109,8114627,Sony Pictures Classics
+157,The LEGO Batman Movie,2017.0,PG,Family,Chris McKay,_Will Arnett_Michael Cera_Rosario Dawson_Ralph Fiennes,104,175750384,Warner Bros.
+158,As Good as It Gets,1997.0,PG-13,Romance,James L. Brooks,_Jack Nicholson_Helen Hunt_Greg Kinnear_Cuba Gooding Jr.,139,148478011,Sony Pictures Entertainment (SPE)
+159,The English Patient,1996.0,R,War,Anthony Minghella,_Juliette Binoche_Kristin Scott Thomas_Ralph Fiennes_Willem Dafoe,162,78651430,Alliance Atlantis Home Video
+160,Rebel Without a Cause,1955.0,PG-13,Drama,Nicholas Ray,_Ann Doran_Corey Allen_Dennis Hopper_Edward Platt_James Dean_Jim Backus_Natalie Wood_Rochelle Hudson_Sal Mineo_William Hopper,111,-1000,Warner Bros.
+161,The Manchurian Candidate,1962.0,PG-13,Thriller,John Frankenheimer,_Frank Sinatra_Laurence Harvey_Janet Leigh_Angela Lansbury,126,-1000,United Artists
+162,WarGames,1983.0,PG,Thriller,John Badham,_Ally Sheedy_Barry Corbin_Dabney Coleman_Dennis Lipscomb_Irving Metzman_Joe Dorsey_John Wood_Juanin Clay_Kent Williams_Matthew Broderick,114,79568000,MGM/UA Entertainment Company
+163,Pride & Prejudice,2005.0,PG,Romance,Joe Wright,_Brenda Blethyn_Donald Sutherland_Keira Knightley_Matthew MacFadyen,127,38405088,Focus Features
+164,Don Jon,2013.0,R,Romance,Joseph Gordon-Levitt,_Brie Larson_Glenne Headly_Italia Ricci_Jeremy Luke_Joseph Gordon-Levitt_Julianne Moore_Lindsey Broad_Rob Brown_Scarlett Johansson_Tony Danza,90,24477704,Relativity Media
+165,Black Swan,2010.0,R,Thriller,Darren Aronofsky,_Mila Kunis_Natalie Portman_Vincent Cassel_Winona Ryder,108,106954678,Fox Searchlight Pictures
+166,Top Secret!,1984.0,PG,Comedy,_David Zucker_Jerry Zucker_Jim Abrahams,_Val Kilmer_Lucy Gutteridge_Peter Cushing_Jeremy Kemp,90,20500000,Paramount Pictures
+167,Psycho,1960.0,R,Horror,Alfred Hitchcock,_Anthony Perkins_Janet Leigh_Vera Miles_John Gavin,109,32000000,Paramount Pictures
+168,Time Bandits,1981.0,PG,Comedy,Terry Gilliam,_David Rappaport_David Warner_Ian Holm_John Cleese_Katherine Helmond_Michael Palin_Peter Vaughan_Ralph Richardson_Sean Connery_Shelley Duvall,116,42365581,AVCO Embassy Pictures
+169,Terminator 3: Rise of the Machines,2003.0,R,Thriller,Jonathan Mostow,_Arnold Schwarzenegger_Nick Stahl_Kristanna Loken_Claire Danes,109,150371112,Warner Bros. Pictures
+170,The Blair Witch Project,1999.0,R,Horror,_Daniel Myrick_Eduardo Sánchez,_Heather Donahue_Michael C. Williams_Joshua Leonard_Bob Griffin,81,140539099,Artisan Entertainment
+171,The Italian Job,2003.0,PG-13,Crime,F. Gary Gray,_Charlize Theron_Donald Sutherland_Edward Norton_Jason Statham_Mark Wahlberg_Mos Def_Seth Green,111,106128601,Paramount Pictures
+172,The Lord of the Rings: The Fellowship of the Ring,2001.0,PG-13,Fantasy,Peter Jackson,_Elijah Wood_Ian McKellen_Orlando Bloom_Sean Bean,178,315544750,New Line Cinema
+173,Beasts of the Southern Wild,2012.0,PG-13,Fantasy,Benh Zeitlin,_Dwight Henry_Gina Montana_Jovan Hathaway_Levy Easterly_Lowell Landes_Nicholas Clark_Pamela Harper_Quvenzhané Wallis,93,12795746,Fox Searchlight Pictures
+174,The Big Sick,2017.0,R,Romance,Michael Showalter,_Adeel Akhtar_Aidy Bryant_Anupam Kher_Bo Burnham_Holly Hunter_Kumail Nanjiani_Kurt Braunohler_Ray Romano_Zenobia Shroff_Zoe Kazan,120,42872467,Lionsgate
+175,Terminator 2: Judgment Day,1991.0,R,Thriller,James Cameron,_Arnold Schwarzenegger_Linda Hamilton_Edward Furlong_Robert Patrick,137,204843350,TriStar Pictures
+176,Iron Man,2008.0,PG-13,Thriller,Jon Favreau,_Robert Downey Jr._Gwyneth Paltrow_Terrence Howard_Jeff Bridges,126,318412101,Paramount Pictures
+177,Boogie Nights,1997.0,R,Drama,Paul Thomas Anderson,_Mark Wahlberg_Julianne Moore_Burt Reynolds_Luis Guzmán,155,26400640,New Line Cinema
+178,Crimson Tide,1995.0,R,Thriller,Tony Scott,_Gene Hackman_Denzel Washington_Matt Craven_George Dzundza,116,91400000,Buena Vista Pictures
+179,Fantastic Beasts and Where to Find Them,2016.0,PG-13,Family,David Yates,_Alison Sudol_Carmen Ejogo_Colin Farrell_Dan Fogler_Eddie Redmayne_Ezra Miller_Katherine Waterston,133,234037575,Warner Bros.
+180,Ever After: A Cinderella Story,1998.0,PG-13,Romance,Andy Tennant,_Drew Barrymore_Anjelica Huston_Dougray Scott_Patrick Godfrey,121,65705771,Twentieth Century Fox Film Corporation
+181,The Dark Knight,2008.0,PG-13,Crime,Christopher Nolan,_Christian Bale_Heath Ledger_Aaron Eckhart_Michael Caine,152,534858444,Warner Bros. Pictures
+182,Control,2007.0,R,Music,Anton Corbijn,_Sam Riley_Samantha Morton_Craig Parkinson_Alexandra Maria Lara,122,871577,"Weinstein Company, The"
+183,Zootopia,2016.0,PG,Family,_Byron Howard_Jared Bush_Rich Moore,_Ginnifer Goodwin_Jason Bateman_Idris Elba_Jenny Slate,108,341268248,Walt Disney Studios Motion Pictures
+184,The Descendants,2011.0,R,Comedy,Alexander Payne,_George Clooney_Shailene Woodley_Amara Miller_Nick Krause,115,82584160,Fox Searchlight Pictures
+185,Escape from New York,1981.0,R,Sci-Fi,John Carpenter,_Kurt Russell_Lee Van Cleef_Ernest Borgnine_Donald Pleasence,99,25244700,Embassy Pictures
+186,The Incredibles,2004.0,PG,Family,Brad Bird,_Craig T. Nelson_Holly Hunter_Jason Lee_Samuel L. Jackson,115,261441092,Buena Vista Pictures
+187,Fair Game,2010.0,PG-13,Thriller,Doug Liman,_Naomi Watts_Sean Penn_Sonya Davison_Vanessa Chong,108,9528092,Summit Entertainment
+188,The Crying Game,1992.0,R,Crime,Neil Jordan,_Stephen Rea_Jaye Davidson_Forest Whitaker_Miranda Richardson,112,62549000,Miramax Films
+189,Terms of Endearment,1983.0,PG,Romance,James L. Brooks,_Shirley MacLaine_Debra Winger_Jack Nicholson_Danny DeVito,132,108423489,Paramount Pictures
+190,Me and Earl and the Dying Girl,2015.0,PG-13,Comedy,Alfonso Gomez-Rejon,_Thomas Mann_RJ Cyler_Olivia Cooke_Nick Offerman,105,6743776,Fox Searchlight Pictures
+191,The Disaster Artist,2017.0,R,Comedy,James Franco,_Adam Scott_Alison Brie_Ari Graynor_Brett Gelman_Bryan Cranston_Dave Franco_Dylan Minnette_Eliza Coupe_J.J. Abrams_Jacki Weaver_James Franco_Jason Mantzoukas_Josh Hutcherson_June Diane Raphael_Kate Upton_Kristen Bell_Lizzy Caplan_Megan Mullally_Melanie Griffith_Paul Scheer_Seth Rogen_Sugar Lyn Beard_Tommy Wiseau_Zac Efron_Zoey Deutch,104,21120616,A24
+192,Fences,2016.0,PG-13,Drama,Denzel Washington,_Denzel Washington_Viola Davis_Stephen Henderson_Jovan Adepo,139,57642961,Paramount Pictures
+193,Live Free or Die Hard,2007.0,PG-13,Crime,Len Wiseman,_Bruce Willis_Justin Long_Timothy Olyphant_Maggie Q,128,134529403,Twentieth Century Fox Film Corporation
+194,The Godfather,1972.0,R,Crime,Francis Ford Coppola,_Marlon Brando_Al Pacino_James Caan_Diane Keaton,175,134966411,Paramount Pictures
+195,Dunkirk,2017.0,PG-13,War,Christopher Nolan,_Aneurin Barnard_Barry Keoghan_Damien Bonnard_Fionn Whitehead_Harry Styles_Jack Lowden_James Bloor_Lee Armstrong_Mark Rylance_Tom Glynn-Carney_Tom Hardy,106,188373161,Warner Bros.
+196,King Kong,2005.0,PG-13,Romance,Peter Jackson,_Naomi Watts_Jack Black_Adrien Brody_Thomas Kretschmann,187,218080025,Universal Pictures
+197,The Ghost Writer,2010.0,PG-13,Thriller,Roman Polanski,_Ewan McGregor_Pierce Brosnan_Olivia Williams_Jon Bernthal,128,15541549,Summit Distribution
+198,The Danish Girl,2015.0,R,Romance,Tom Hooper,_Alicia Vikander_Amber Heard_Ben Whishaw_Eddie Redmayne,119,12706393,Focus Features
+199,The Avengers,2012.0,PG-13,Thriller,Joss Whedon,_Chris Evans_Jeremy Renner_Robert Downey Jr._Scarlett Johansson,143,623357910,Walt Disney Studios Motion Pictures
+200,Garden State,2004.0,R,Romance,Zach Braff,_Zach Braff_Peter Sarsgaard_Natalie Portman_Ian Holm,102,26782316,Fox Searchlight Pictures
+201,It Happened One Night,1934.0,Not Rated,Romance,Frank Capra,_Alan Hale _Arthur Hoyt_Blanche Friderici_Charles C. Wilson_Clark Gable_Claudette Colbert_Ernie Adams_Jameson Thomas_Roscoe Karns_Walter Connolly,105,-1000,Columbia Pictures
+202,Chariots of Fire,1982.0,PG,Sport,Hugh Hudson,_Ben Cross_Cheryl Campbell_Daniel Gerroll_Ian Charleson_Ian Holm_John Gielgud_Lindsay Anderson_Nicholas Farrell_Nigel Davenport_Nigel Havers,125,58972904,Twentieth Century Fox Film Company
+203,Charlie Wilson's War,2007.0,R,Drama,Mike Nichols,_Tom Hanks_Julia Roberts_Philip Seymour Hoffman_Amy Adams,102,66661095,Universal Pictures
+204,Incendies,2011.0,R,Drama,Denis Villeneuve,_Lubna Azabal_Mélissa Désormeaux-Poulin_Maxim Gaudette_Mustafa Kamel,130,6857096,Sony Pictures Classics
+205,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005.0,PG,Family,Andrew Adamson,_Anna Popplewell_Georgie Henley_Skandar Keynes_Tilda Swinton_William Moseley,143,291709845,Buena Vista Pictures
+206,Harry Potter and the Prisoner of Azkaban,2004.0,PG,Family,Alfonso Cuarón,_Daniel Radcliffe_Emma Watson_Rupert Grint_Richard Griffiths,141,249358727,Warner Bros. Pictures
+207,Hunt for the Wilderpeople,2016.0,PG-13,Comedy,Taika Waititi,_Julian Dennison_Rachel House_Rima Te Wiata_Sam Neill,101,5202582,"Orchard, The"
+208,Schindler's List,1993.0,R,War,Steven Spielberg,_Liam Neeson_Ralph Fiennes_Ben Kingsley_Caroline Goodall,195,96067179,Universal Pictures
+209,Room,2015.0,R,Drama,Lenny Abrahamson,_Brie Larson_Jacob Tremblay_Sean Bridgers_Wendy Crewson,118,14677654,A24
+210,The People vs. Larry Flynt,1996.0,R,Drama,Milos Forman,_Woody Harrelson_Courtney Love_Edward Norton_Brett Harrelson,129,20191312,Columbia Pictures
+211,Mission: Impossible III,2006.0,PG-13,Thriller,J.J. Abrams,_Tom Cruise_Michelle Monaghan_Ving Rhames_Philip Seymour Hoffman,126,134029801,Paramount Pictures
+212,Trainwreck,2015.0,R,Romance,Judd Apatow,_Amy Schumer_Bill Hader_Brie Larson_Colin Quinn,125,110212700,Universal Pictures
+213,Young Frankenstein,1974.0,PG,Comedy,Mel Brooks,_Gene Wilder_Madeline Kahn_Marty Feldman_Peter Boyle,106,86300000,Fathom Events
+214,Reservoir Dogs,1992.0,R,Crime,Quentin Tarantino,_Harvey Keitel_Tim Roth_Michael Madsen_Chris Penn,99,2832029,Miramax Films
+215,Driving Miss Daisy,1989.0,PG,Drama,Bruce Beresford,_Morgan Freeman_Jessica Tandy_Dan Aykroyd_Patti LuPone,99,106593296,Warner Bros. Pictures
+216,Fast Five,2011.0,PG-13,Crime,Justin Lin,_Vin Diesel_Paul Walker_Dwayne Johnson_Jordana Brewster,130,209837675,Universal Pictures
+217,Braveheart,1995.0,R,War,Mel Gibson,_Mel Gibson_Sophie Marceau_Patrick McGoohan_Angus Macfadyen,177,75600000,Paramount Pictures
+218,The Man Who Shot Liberty Valance,1962.0,Not Rated,Western,John Ford,_Andy Devine_Edmond O'Brien_James Stewart_Jeanette Nolan_John Carradine_John Qualen_John Wayne_Ken Murray_Lee Marvin_Vera Miles,123,-1000,Paramount Pictures
+219,Shine,1996.0,PG-13,Music,Scott Hicks,_Geoffrey Rush_Armin Mueller-Stahl_Justin Braine_Sonia Todd,105,35811509,Fine Line Features
+220,The Iron Giant,1999.0,PG,Family,Brad Bird,_Eli Marienthal_Harry Connick Jr._Jennifer Aniston_Vin Diesel,86,23159305,Warner Bros. Pictures
+221,Elizabeth,1998.0,R,Romance,Shekhar Kapur,_Cate Blanchett_Geoffrey Rush_Christopher Eccleston_Joseph Fiennes,124,30082699,Gramercy Pictures (I)
+222,Unforgiven,1992.0,R,Western,Clint Eastwood,_Clint Eastwood_Gene Hackman_Morgan Freeman_Richard Harris,131,101157447,Warner Bros. Pictures
+223,Patriots Day,2016.0,R,Thriller,Peter Berg,_J.K. Simmons_John Goodman_Mark Wahlberg_Michelle Monaghan,133,31886361,Lionsgate
+224,Talladega Nights: The Ballad of Ricky Bobby,2006.0,PG-13,Comedy,Adam McKay,_Will Ferrell_John C. Reilly_Sacha Baron Cohen_Gary Cole,108,148213377,Columbia Pictures
+225,The Straight Story,1999.0,G,Drama,David Lynch,_Richard Farnsworth_Sissy Spacek_Jane Galloway Heitz_Joseph A. Carpenter,112,6203044,Buena Vista Pictures
+226,Noah,2014.0,PG-13,Fantasy,Darren Aronofsky,_Anthony Hopkins_Emma Watson_Jennifer Connelly_Logan Lerman_Nick Nolte_Russell Crowe,138,101200044,Paramount Pictures
+227,Blood Father,2016.0,R,Crime,Jean-François Richet,_Mel Gibson_Erin Moriarty_Diego Luna_Michael Parks,88,-1000,Lionsgate Premiere
+228,Wings of Desire,1988.0,PG-13,Romance,Wim Wenders,_Bruno Ganz_Curt Bois_Otto Sander_Peter Falk_Solveig Dommartin,128,3210139,Orion Classics
+229,Moonlight,2016.0,R,Drama,Barry Jenkins,_Alex R. Hibbert_Ashton Sanders_Duan Sanderson_Herman 'Caheei McGloun_Jaden Piner_Janelle Monáe_Mahershala Ali_Naomie Harris_Shariff Earp,111,27850912,A24
+230,It's a Wonderful Life,1947.0,PG,Family,Frank Capra,_James Stewart_Donna Reed_Lionel Barrymore_Thomas Mitchell,130,7270000,RKO Radio Pictures
+231,The Triplets of Belleville,2003.0,PG-13,Animation,Sylvain Chomet,_Jean-Claude Donda_Michel Robin_Michèle Caucheteux_Monica Viegas,78,7002255,Sony Pictures Classics
+232,Head-On,2005.0,R,Romance,Fatih Akin,_Birol Ünel_Sibel Kekilli_Güven Kiraç_Zarah Jane McKenzie,121,-1000,Strand Releasing
+233,The Infiltrator,2016.0,R,Crime,Brad Furman,_Amy Ryan_Benjamin Bratt_Bryan Cranston_Diane Kruger_John Leguizamo_Joseph Gilgun_Juliet Aubrey_Rubén Ochandiano_Simón Andreu,127,15425870,Broad Green Pictures
+234,Doctor Zhivago,1965.0,PG-13,War,David Lean,_Alec Guinness_Geraldine Chaplin_Jeffrey Rockland_Julie Christie_Omar Sharif_Ralph Richardson_Rita Tushingham_Rod Steiger_Siobhan McKenna_Tom Courtenay,197,111722000,Metro-Goldwyn-Mayer (MGM)
+235,Night on Earth,1991.0,R,Comedy,Jim Jarmusch,_Alan Randolph Scott_Anthony Portillo_Armin Mueller-Stahl_Gena Rowlands_Giancarlo Esposito_Isaach De Bankolé_Lisanne Falk_Richard Boes_Rosie Perez_Winona Ryder,129,2015810,Fine Line Features
+236,"Paris, je t'aime",2007.0,R,Romance,_Alexander Payne_Alfonso Cuarón_Bruno Podalydès_Christopher Doyle_Daniela Thomas_Emmanuel Benbihy_Ethan Coen_Frédéric Auburtin_Gérard Depardieu_Gurinder Chadha_Gus Van Sant_Isabel Coixet_Joel Coen_Nobuhiro Suwa_Oliver Schmitz_Olivier Assayas_Richard LaGravenese_Sylvain Chomet_Tom Tykwer_Vincenzo Natali_Walter Salles_Wes Craven,_Juliette Binoche_Leonor Watling_Ludivine Sagnier_Fanny Ardant,120,4857376,First Look International
+237,Harry Potter and the Half-Blood Prince,2009.0,PG,Family,David Yates,_Daniel Radcliffe_Emma Watson_Rupert Grint_Michael Gambon,153,301959197,Warner Bros. Pictures
+238,12 Years a Slave,2013.0,R,History,Steve McQueen,_Alfre Woodard_Benedict Cumberbatch_Brad Pitt_Chiwetel Ejiofor_Garret Dillahunt_Michael Fassbender_Michael K. Williams_Paul Dano_Paul Giamatti_Sarah Paulson,134,56671993,Fox Searchlight Pictures
+239,World Trade Center,2006.0,PG-13,History,Oliver Stone,_Nicolas Cage_Michael Peña_Maria Bello_Maggie Gyllenhaal,129,70278893,Paramount Pictures
+240,Stardust,2007.0,PG-13,Family,Matthew Vaughn,_Charlie Cox_Claire Danes_Sienna Miller_Ian McKellen,127,38634938,Paramount Pictures
+241,MASH,1970.0,R,War,Robert Altman,_Donald Sutherland_Elliott Gould_Tom Skerritt_Sally Kellerman,116,81600000,Twentieth Century Fox Film Corporation
+242,127 Hours,2010.0,R,Thriller,Danny Boyle,_James Franco_Amber Tamblyn_Kate Mara_Sean Bott,94,18335230,Fox Searchlight Pictures
+243,Waltz with Bashir,2008.0,R,Animation,Ari Folman,_Ari Folman_Ron Ben-Yishai_Ronny Dayag_Ori Sivan,90,2283276,Sony Pictures Classics
+244,Spotlight,2015.0,R,Thriller,Thomas McCarthy,_John Slattery_Liev Schreiber_Mark Ruffalo_Michael Keaton_Rachel McAdams_Stanley Tucci,128,45055776,Open Road Films (II)
+245,Back to the Future,1985.0,PG,Comedy,Robert Zemeckis,_Michael J. Fox_Christopher Lloyd_Lea Thompson_Crispin Glover,116,210609762,Universal Pictures
+246,Casino Royale,2006.0,PG-13,Thriller,Martin Campbell,_Daniel Craig_Eva Green_Jeffrey Wright_Judi Dench,144,167445960,Columbia Pictures
+247,Memories of Murder,2005.0,Not Rated,Crime,Joon-ho Bong,_Kang-ho Song_Sang-kyung Kim_Roe-ha Kim_Jae-ho Song,132,14131,Palm Pictures
+248,On the Waterfront,1954.0,Not Rated,Crime,Elia Kazan,_Marlon Brando_Karl Malden_Lee J. Cobb_Rod Steiger,108,9600000,Columbia Pictures
+249,Face/Off,1997.0,R,Crime,John Woo,_John Travolta_Nicolas Cage_Joan Allen_Alessandro Nivola,138,112225777,Paramount Pictures
+250,Winter's Bone,2010.0,R,Drama,Debra Granik,_Jennifer Lawrence_John Hawkes_Garret Dillahunt_Isaiah Stone,100,6531503,Roadside Attractions
+251,Amour,2012.0,PG-13,Romance,Michael Haneke,_Jean-Louis Trintignant_Emmanuelle Riva_Isabelle Huppert_Alexandre Tharaud,127,6739492,Sony Pictures Classics
+252,Insomnia,2002.0,R,Crime,Christopher Nolan,_Al Pacino_Robin Williams_Hilary Swank_Martin Donovan,118,67355513,Warner Bros. Pictures
+253,Stripes,1981.0,R,War,Ivan Reitman,_Bill Murray_John Candy_Harold Ramis_Warren Oates,106,85297000,Columbia Pictures
+254,Brave,2012.0,PG,Family,_Brenda Chapman_Mark Andrews_Steve Purcell,_Billy Connolly_Craig Ferguson_Emma Thompson_Julie Walters_Kelly Macdonald_Kevin McKidd_Robbie Coltrane,93,237283207,Walt Disney Studios Motion Pictures
+255,A Single Man,2009.0,R,Drama,Tom Ford,_Colin Firth_Julianne Moore_Matthew Goode_Nicholas Hoult,99,9166863,"Weinstein Company, The"
+256,The Best Years of Our Lives,1946.0,Not Rated,War,William Wyler,_Cathy O'Donnell_Dana Andrews_Fredric March_Gladys George_Harold Russell_Hoagy Carmichael_Myrna Loy_Roman Bohnen_Teresa Wright_Virginia Mayo,170,23650000,RKO Radio Pictures
+257,La La Land,2016.0,PG-13,Musical,Damien Chazelle,_Emma Stone_J.K. Simmons_Rosemarie DeWitt_Ryan Gosling,128,151101803,Lionsgate
+258,Thelma & Louise,1991.0,R,Crime,Ridley Scott,_Susan Sarandon_Geena Davis_Harvey Keitel_Michael Madsen,130,45361000,Metro-Goldwyn-Mayer (MGM)
+259,Captain America: Civil War,2016.0,PG-13,Thriller,_Anthony Russo_Joe Russo,_Anthony Mackie_Chadwick Boseman_Chris Evans_Don Cheadle_Jeremy Renner_Paul Bettany_Robert Downey Jr._Scarlett Johansson_Sebastian Stan,147,408084349,Walt Disney Studios Motion Pictures
+260,Sing Street,2016.0,PG-13,Musical,John Carney,_Aidan Gillen_Ben Carolan_Ferdia Walsh-Peelo_Jack Reynor_Kelly Thornton_Lucy Boynton_Maria Doyle Kennedy,106,3233839,"Weinstein Company, The"
+261,Europa Report,2013.0,PG-13,Horror,Sebastián Cordero,_Anamaria Marinca_Christian Camargo_Dan Fogler_Daniel Wu_Embeth Davidtz_Isiah Whitlock Jr_Karolina Wydra_Michael Nyqvist_Sharlto Copley,90,125687,Magnet Releasing
+262,Whiplash,2014.0,R,Music,Damien Chazelle,_J.K. Simmons_Melissa Benoist_Miles Teller_Paul Reiser,107,13092000,Sony Pictures Classics
+263,North by Northwest,1959.0,Not Rated,Thriller,Alfred Hitchcock,_Adam Williams_Cary Grant_Edward Platt_Eva Marie Saint_James Mason_Jessie Royce Landis_Josephine Hutchinson_Leo G. Carroll_Martin Landau_Philip Ober,136,13275000,Metro-Goldwyn-Mayer (MGM)
+264,Moneyball,2011.0,PG-13,Drama,Bennett Miller,_Brad Pitt_Robin Wright_Jonah Hill_Philip Seymour Hoffman,133,75605492,Columbia Pictures
+265,The King's Speech,2010.0,R,History,Tom Hooper,_Colin Firth_Geoffrey Rush_Helena Bonham Carter_Derek Jacobi,118,138797449,"Weinstein Company, The"
+266,Lady Bird,2017.0,R,Comedy,Greta Gerwig,_Andy Buckley_Beanie Feldstein_Danielle Macdonald_Jake McDorman_Jordan Rodrigues_Kathryn Newton_Kristen Cloke_Laura Marano_Laurie Metcalf_Lois Smith_Lucas Hedges_Odeya Rush_Saoirse Ronan_Stephen Henderson_Timoth_Tracy Letts,94,48873522,A24
+267,Looper,2012.0,R,Crime,Rian Johnson,_Bruce Willis_Emily Blunt_Garret Dillahunt_Jeff Daniels_Joseph Gordon-Levitt_Noah Segan_Paul Dano_Piper Perabo,119,66486205,TriStar Pictures
+268,The Graduate,1967.0,PG,Romance,Mike Nichols,_Dustin Hoffman_Anne Bancroft_Katharine Ross_William Daniels,105,104945305,Embassy Pictures Corporation
+269,Before the Devil Knows You're Dead,2007.0,R,Crime,Sidney Lumet,_Philip Seymour Hoffman_Ethan Hawke_Albert Finney_Marisa Tomei,117,7083025,thinkfilm
+270,Kinsey,2004.0,R,Drama,Bill Condon,_Liam Neeson_Laura Linney_Chris O'Donnell_Peter Sarsgaard,118,10214647,Fox Searchlight Pictures
+271,Ex Machina,2015.0,R,Thriller,Alex Garland,_Alicia Vikander_Domhnall Gleeson_Oscar Isaac_Sonoya Mizuno,108,25442958,Universal Pictures
+272,The Book of Life,2014.0,PG,Family,Jorge R. Gutiérrez,_Diego Luna_Zoe Saldana_Channing Tatum_Ron Perlman,95,50151543,Twentieth Century Fox Film Corporation
+273,Ruby Sparks,2012.0,R,Romance,_Jonathan Dayton_Valerie Faris,_Annette Bening_Antonio Banderas_Paul Dano_Zoe Kazan,104,2540106,Fox Searchlight Pictures
+274,The Big Short,2015.0,R,Comedy,Adam McKay,_Brad Pitt_Christian Bale_Hamish Linklater_John Magaro_Melissa Leo_Rafe Spall_Ryan Gosling_Steve Carell,130,70259870,Paramount Pictures
+275,Some Like It Hot,1959.0,Not Rated,Romance,Billy Wilder,_Billy Gray_George E. Stone_George Raft_Jack Lemmon_Joan Shawlee_Joe E. Brown_Marilyn Monroe_Nehemiah Persoff_Pat O'Brien_Tony Curtis,121,25000000,United Artists
+276,Coco,2017.0,PG,Musical,_Adrian Molina_Lee Unkrich,_Alanna Ubach_Alfonso Arau_Anthony Gonzalez_Benjamin Bratt_Cheech Marin_Edward James Olmos_Gabriel Iglesias_Gael García Bernal_Herbert Siguenza_Jaime Camil_John Ratzenberger_Lombardo Boyar_Natalia Cordova-Buckley_Renee Victor_Selene Luna_Sofía Espinosa,105,209222818,Walt Disney Studios Motion Pictures
+277,Innerspace,1987.0,PG,Comedy,Joe Dante,_Dennis Quaid_Martin Short_Meg Ryan_Kevin McCarthy,120,25893810,Warner Bros.
+278,8 Mile,2002.0,R,Music,Curtis Hanson,_Brittany Murphy_Eminem_Kim Basinger_Mekhi Phifer,110,116724075,Universal Pictures
+279,Beginners,2011.0,R,Drama,Mike Mills,_Ewan McGregor_Christopher Plummer_Mélanie Laurent_Goran Visnjic,105,5790894,Focus Features
+280,My Own Private Idaho,1991.0,R,Drama,Gus Van Sant,_River Phoenix_Keanu Reeves_James Russo_William Richert,104,6401336,Fine Line Features
+281,Snowpiercer,2014.0,R,Thriller,Joon-ho Bong,_Chris Evans_Ed Harris_Jamie Bell_Tilda Swinton,126,4563650,"Weinstein Company, The"
+282,Planet of the Apes,1968.0,G,Sci-Fi,Franklin J. Schaffner,_Charlton Heston_Roddy McDowall_Kim Hunter_Maurice Evans,112,33395426,Twentieth Century Fox Film Corporation
+283,The Babadook,2014.0,Not Rated,Horror,Jennifer Kent,_Barbara West_Daniel Henshall_Essie Davis_Hayley McElhinney_Noah Wiseman,93,924279,IFC Films
+284,The Master,2012.0,R,Drama,Paul Thomas Anderson,_Amy Adams_Jesse Plemons_Joaquin Phoenix_Philip Seymour Hoffman,144,16377274,"Weinstein Company, The"
+285,Mr. Holmes,2015.0,PG,Crime,Bill Condon,_Hattie Morahan_Hiroyuki Sanada_Ian McKellen_Laura Linney,104,17737646,Roadside Attractions
+286,Star Trek,2009.0,PG-13,Sci-Fi,J.J. Abrams,_Chris Pine_Zachary Quinto_Simon Pegg_Leonard Nimoy,127,257730019,Paramount Pictures
+287,Magnolia,1999.0,R,Drama,Paul Thomas Anderson,_Jason Robards_Jeremy Blackman_John C. Reilly_Julianne Moore_Philip Baker Hall_Philip Seymour Hoffman_Tom Cruise_William H. Macy,188,22455976,New Line Cinema
+288,Get Shorty,1995.0,R,Crime,Barry Sonnenfeld,_Danny DeVito_Gene Hackman_John Travolta_Rene Russo,105,72077000,Metro-Goldwyn-Mayer (MGM)
+289,L.A. Confidential,1997.0,R,Crime,Curtis Hanson,_Guy Pearce_Kevin Spacey_Kim Basinger_Russell Crowe,138,64616940,Warner Bros. Pictures
+290,Unstoppable,2010.0,PG-13,Thriller,Tony Scott,_Denzel Washington_Chris Pine_Rosario Dawson_Ethan Suplee,98,81562942,Twentieth Century Fox Film Corporation
+291,Fish Tank,2010.0,Not Rated,Drama,Andrea Arnold,_Katie Jarvis_Michael Fassbender_Kierston Wareing_Rebecca Griffiths,123,373060,IFC Films
+292,Take Shelter,2011.0,R,Drama,Jeff Nichols,_Michael Shannon_Jessica Chastain_Shea Whigham_Tova Stewart,120,1729969,Sony Pictures Classics
+293,Crimson Peak,2015.0,R,Romance,Guillermo del Toro,_Charlie Hunnam_Jessica Chastain_Mia Wasikowska_Tom Hiddleston,119,31056945,Universal Pictures
+294,Arachnophobia,1990.0,PG-13,Comedy,Frank Marshall,_Brian McNamara_Harley Jane Kozak_Henry Jones_James Handy_Jeff Daniels_John Goodman_Julian Sands_Mark L. Taylor_Peter Jason_Stuart Pankin,103,53208180,Buena Vista Pictures
+295,A Serious Man,2009.0,R,Drama,_Ethan Coen_Joel Coen,_Michael Stuhlbarg_Richard Kind_Sari Lennick_Fred Melamed,106,9190525,Focus Features
+296,12 Angry Men,1957.0,Approved,Crime,Sidney Lumet,_Henry Fonda_Lee J. Cobb_Martin Balsam_John Fiedler,96,-1000,United Artists
+297,John Wick: Chapter 2,2017.0,R,Crime,Chad Stahelski,_Keanu Reeves_Riccardo Scamarcio_Ian McShane_Ruby Rose,122,92029184,Summit Entertainment
+298,Duplicity,2009.0,PG-13,Romance,Tony Gilroy,_Julia Roberts_Clive Owen_Tom Wilkinson_Paul Giamatti,125,40572825,Universal Pictures
+299,Get Out,2017.0,R,Comedy,Jordan Peele,_Allison Williams_Bradley Whitford_Catherine Keener_Daniel Kaluuya,104,176040665,Universal Pictures
+300,Dreamgirls,2006.0,PG-13,Musical,Bill Condon,_Beyoncé_Jamie Foxx_Eddie Murphy_Danny Glover,130,103365956,DreamWorks SKG
+301,Zero Dark Thirty,2012.0,R,Thriller,Kathryn Bigelow,_Chris Pratt_Édgar Ramírez_Jason Clarke_Jennifer Ehle_Jessica Chastain_Joel Edgerton_Mark Strong,157,95720716,Columbia Pictures
+302,Badlands,1973.0,PG,Crime,Terrence Malick,_Martin Sheen_Sissy Spacek_Warren Oates_Ramon Bieri,94,-1000,Warner Bros. Pictures
+303,The Great Escape,1963.0,Approved,War,John Sturges,_Charles Bronson_David McCallum_Donald Pleasence_Gordon Jackson_Hannes Messemer_James Coburn_James Donald_James Garner_Richard Attenborough_Steve McQueen,172,12100000,United Artists
+304,Blue Valentine,2010.0,R,Romance,Derek Cianfrance,_Ryan Gosling_Michelle Williams_John Doman_Faith Wladyka,120,9737892,"Weinstein Company, The"
+305,Flags of Our Fathers,2006.0,R,War,Clint Eastwood,_Ryan Phillippe_Barry Pepper_Joseph Cross_Jesse Bradford,132,33602376,Paramount Pictures
+306,Black Hawk Down,2001.0,R,War,Ridley Scott,_Josh Hartnett_Ewan McGregor_Tom Sizemore_Eric Bana,144,108638745,Columbia Pictures
+307,The Piano,1993.0,R,Romance,Jane Campion,_Holly Hunter_Harvey Keitel_Sam Neill_Anna Paquin,121,40158000,Miramax Films
+308,Wonder Woman,2017.0,PG-13,War,Patty Jenkins,_Chris Pine_Connie Nielsen_Danny Huston_David Thewlis_Eugene Brave Rock_Ewen Bremner_Gal Gadot_Lucy Davis_Robin Wright_Saïd Taghmaoui,141,412563408,Warner Bros.
+309,The Hours,2002.0,PG-13,Drama,Stephen Daldry,_Meryl Streep_Nicole Kidman_Julianne Moore_Stephen Dillane,114,41675994,Paramount Pictures
+310,Predestination,2015.0,R,Thriller,_Michael Spierig_Peter Spierig,_Ethan Hawke_Freya Stafford_Madeleine West_Noah Taylor_Sarah Snook,97,68372,Stage 6 Films
+311,A Bug's Life,1998.0,G,Family,_Andrew Stanton_John Lasseter,_Kevin Spacey_Dave Foley_Julia Louis-Dreyfus_Hayden Panettiere,95,162798565,Buena Vista Pictures
+312,Gosford Park,2001.0,R,Comedy,Robert Altman,_Maggie Smith_Ryan Phillippe_Michael Gambon_Kristin Scott Thomas,137,41308615,USA Films
+313,We Need to Talk About Kevin,2011.0,R,Thriller,Lynne Ramsay,_Tilda Swinton_John C. Reilly_Ezra Miller_Jasper Newell,110,1738692,Oscilloscope Laboratories
+314,"Good Night, and Good Luck.",2005.0,PG,History,George Clooney,_David Strathairn_George Clooney_Patricia Clarkson_Jeff Daniels,93,31501218,Warner Independent Pictures (WIP)
+315,Finding Dory,2016.0,PG,Family,_Andrew Stanton_Angus MacLane,_Ellen DeGeneres_Albert Brooks_Ed O'Neill_Kaitlin Olson,97,486295561,Walt Disney Studios Motion Pictures
+316,The Bank Job,2008.0,R,Crime,Roger Donaldson,_Jason Statham_Saffron Burrows_Stephen Campbell Moore_Daniel Mays,111,30028592,Lionsgate
+317,A Bronx Tale,1993.0,R,Crime,Robert De Niro,_Robert De Niro_Chazz Palminteri_Lillo Brancato_Francis Capra,121,17266971,Savoy Pictures
+318,Submarine,2011.0,R,Comedy,Richard Ayoade,_Craig Roberts_Sally Hawkins_Paddy Considine_Noah Taylor,97,466702,"Weinstein Company, The"
+319,The SpongeBob SquarePants Movie,2004.0,PG,Family,_Stephen Hillenburg_Mark Osborne,_Carolyn Lawrence_Clancy Brown_Jeffrey Tambor_Rodger Bumpass,87,85417988,Paramount Pictures
+320,About Schmidt,2002.0,R,Comedy,Alexander Payne,_Jack Nicholson_Hope Davis_Dermot Mulroney_Kathy Bates,125,65016287,New Line Cinema
+321,The Kids Are All Right,2010.0,R,Comedy,Lisa Cholodenko,_Annette Bening_Julianne Moore_Mark Ruffalo_Mia Wasikowska,106,20811365,Focus Features
+322,Slumdog Millionaire,2008.0,R,Romance,_Danny Boyle_Loveleen Tandan,_Dev Patel_Freida Pinto_Saurabh Shukla_Anil Kapoor,120,141319928,Fox Searchlight Pictures
+323,In the Name of the Father,1993.0,R,Drama,Jim Sheridan,_Daniel Day-Lewis_Pete Postlethwaite_Alison Crosbie_Philip King,133,25010410,Universal Pictures
+324,This Is England,2007.0,Not Rated,Crime,Shane Meadows,_Thomas Turgoose_Stephen Graham_Jo Hartley_Andrew Shim,101,327919,IFC Films
+325,Bend It Like Beckham,2003.0,PG-13,Romance,Gurinder Chadha,_Parminder Nagra_Keira Knightley_Jonathan Rhys Meyers_Anupam Kher,112,32543449,Twentieth Century Fox Film Corporation
+326,Foxcatcher,2014.0,R,Thriller,Bennett Miller,_Anthony Michael Hall_Channing Tatum_Mark Ruffalo_Sienna Miller_Steve Carell_Vanessa Redgrave,129,12096300,Sony Pictures Classics
+327,Mud,2013.0,PG-13,Drama,Jeff Nichols,_Jacob Lofland_Matthew McConaughey_Michael Shannon_Reese Witherspoon_Sam Shepard_Sarah Paulson_Tye Sheridan,130,21590086,Lionsgate
+328,Zodiac,2007.0,R,Crime,David Fincher,_Jake Gyllenhaal_Robert Downey Jr._Mark Ruffalo_Anthony Edwards,157,33080084,Paramount Pictures
+329,Cinderella,2015.0,PG,Family,Kenneth Branagh,_Lily James_Cate Blanchett_Richard Madden_Helena Bonham Carter,105,201151353,Walt Disney Studios Motion Pictures
+330,The Shape of Water,2017.0,R,War,Guillermo del Toro,_Cyndy Day_David Hewlett_Doug Jones_John Kapelos_Lauren Lee Smith_Michael Shannon_Michael Stuhlbarg_Morgan Kelly_Nick Searcy_Nigel Bennett_Octavia Spencer_Richard Jenkins_Sally Hawkins_Stewart Arnott,123,62950807,Fox Searchlight Pictures
+331,The Thin Red Line,1999.0,R,War,Terrence Malick,_Jim Caviezel_Sean Penn_Nick Nolte_Kirk Acevedo,170,36400491,Twentieth Century Fox Film Corporation
+332,Network,1976.0,R,Drama,Sidney Lumet,_Faye Dunaway_William Holden_Peter Finch_Robert Duvall,121,-1000,Metro-Goldwyn-Mayer (MGM)
+333,Cool Hand Luke,1967.0,GP,Crime,Stuart Rosenberg,_Clifton James_George Kennedy_J.D. Cannon_Jo Van Fleet_Lou Antonio_Luke Askew_Morgan Woodward_Paul Newman_Robert Drivas_Strother Martin,126,-1000,Warner Brothers/Seven Arts
+334,The Manchurian Candidate,2004.0,R,Thriller,Jonathan Demme,_Denzel Washington_Liev Schreiber_Meryl Streep_Kimberly Elise,129,65955630,Paramount Pictures
+335,The Others,2001.0,PG-13,Horror,Alejandro Amenábar,_Nicole Kidman_Christopher Eccleston_Fionnula Flanagan_Alakina Mann,104,96522687,Dimension Films
+336,Carrie,1976.0,R,Horror,Brian De Palma,_Amy Irving_John Travolta_Piper Laurie_Sissy Spacek,98,33800000,United Artists
+337,Drag Me to Hell,2009.0,PG-13,Horror,Sam Raimi,_Alison Lohman_Justin Long_Ruth Livier_Lorna Raver,99,42100625,Universal Pictures
+338,Lincoln,2012.0,PG-13,War,Steven Spielberg,_Daniel Day-Lewis_Sally Field_David Strathairn_Joseph Gordon-Levitt,150,182207973,Walt Disney Studios Motion Pictures
+339,The World's Fastest Indian,2005.0,PG-13,Sport,Roger Donaldson,_Anthony Hopkins_Diane Ladd_Iain Rea_Tessa Mitchell,127,5128124,Magnolia Pictures
+340,Awakenings,1990.0,PG-13,Drama,Penny Marshall,_Robert De Niro_Robin Williams_Julie Kavner_Ruth Nelson,121,52096475,Columbia Pictures
+341,Avengers: Age of Ultron,2015.0,PG-13,Fantasy,Joss Whedon,_Chris Evans_Chris Hemsworth_James Spader_Jeremy Renner_Mark Ruffalo_Robert Downey Jr._Samuel L. Jackson_Scarlett Johansson,141,459005868,Walt Disney Studios Motion Pictures
+342,Pride,2014.0,R,Comedy,Matthew Warchus,_Bill Nighy_Dominic West_Imelda Staunton_Paddy Considine,120,-1000,CBS Films
+343,Star Wars: Episode IV - A New Hope,1977.0,PG,Fantasy,George Lucas,_Mark Hamill_Harrison Ford_Carrie Fisher_Alec Guinness,121,322740140,Twentieth Century Fox Film Corporation
+344,Kill Bill: Vol. 1,2003.0,R,Crime,Quentin Tarantino,_Daryl Hannah_David Carradine_Lucy Liu_Michael Madsen_Uma Thurman,111,70099045,Miramax Films
+345,Moonrise Kingdom,2012.0,PG-13,Romance,Wes Anderson,_Bill Murray_Bruce Willis_Edward Norton_Frances McDormand_Harvey Keitel_Jared Gilman_Jason Schwartzman_Kara Hayward_Tilda Swinton,94,45512466,Focus Features
+346,Master and Commander: The Far Side of the World,2003.0,PG-13,War,Peter Weir,_Russell Crowe_Paul Bettany_Billy Boyd_James D'Arcy,138,93927920,Twentieth Century Fox Film Corporation
+347,Trading Places,1983.0,R,Comedy,John Landis,_Eddie Murphy_Dan Aykroyd_Ralph Bellamy_Don Ameche,118,90404800,Paramount Pictures
+348,Inglourious Basterds,2009.0,R,War,_Eli Roth_Quentin Tarantino,_Brad Pitt_Diane Kruger_Eli Roth_Mélanie Laurent,153,120540719,"Weinstein Company, The"
+349,Something's Gotta Give,2003.0,PG-13,Romance,Nancy Meyers,_Amanda Peet_Diane Keaton_Frances McDormand_Jack Nicholson_Keanu Reeves,128,124728738,Sony Pictures Entertainment (SPE)
+350,Out of Sight,1998.0,R,Crime,Steven Soderbergh,_George Clooney_Jennifer Lopez_Ving Rhames_Steve Zahn,123,37562568,Universal Pictures
+351,True Grit,2010.0,PG-13,Western,_Ethan Coen_Joel Coen,_Jeff Bridges_Matt Damon_Hailee Steinfeld_Josh Brolin,110,171243005,Paramount Pictures
+352,The War of the Roses,1989.0,R,Comedy,Danny DeVito,_Michael Douglas_Kathleen Turner_Danny DeVito_Marianne Sägebrecht,116,86888546,Twentieth Century Fox Film Corporation
+353,Gone with the Wind,1940.0,G,War,_George Cukor_Sam Wood_Victor Fleming,_Clark Gable_Vivien Leigh_Thomas Mitchell_Barbara O'Neil,238,198676459,Metro-Goldwyn-Mayer (MGM)
+354,X-Men: Days of Future Past,2014.0,PG-13,Fantasy,Bryan Singer,_Halle Berry_Hugh Jackman_Ian McKellen_James McAvoy_Jennifer Lawrence_Michael Fassbender_Patrick Stewart_Peter Dinklage,131,233921534,Twentieth Century Fox Film Corporation
+355,Dallas Buyers Club,2013.0,R,History,Jean-Marc Vallée,_Griffin Dunne_Jared Leto_Jennifer Garner_Matthew McConaughey_Steve Zahn,117,27298285,Focus Features
+356,The Gift,2015.0,R,Horror,Joel Edgerton,_Jason Bateman_Rebecca Hall_Joel Edgerton_Allison Tolman,108,43771291,Huayi Brothers Media
+357,Casablanca,1943.0,PG,War,Michael Curtiz,_Humphrey Bogart_Ingrid Bergman_Paul Henreid_Claude Rains,102,1024560,Warner Bros.
+358,The Jungle Book,2016.0,PG,Musical,Jon Favreau,_Ben Kingsley_Bill Murray_Giancarlo Esposito_Idris Elba_Lupita Nyong'o_Neel Sethi_Scarlett Johansson,106,364001123,Walt Disney Studios Motion Pictures
+359,Coraline,2009.0,PG,Family,Henry Selick,_Dakota Fanning_Teri Hatcher_John Hodgman_Jennifer Saunders,100,75286229,Focus Features
+360,Star Trek: Beyond,2016.0,PG-13,Thriller,Justin Lin,_Anton Yelchin_Chris Pine_Idris Elba_John Cho_Karl Urban_Simon Pegg_Sofia Boutella_Zachary Quinto_Zoe Saldana,122,158848340,Paramount Pictures
+361,Inside Man,2006.0,R,Crime,Spike Lee,_Denzel Washington_Clive Owen_Jodie Foster_Christopher Plummer,129,88513495,Universal Pictures
+362,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006.0,R,Comedy,Larry Charles,_Sacha Baron Cohen_Ken Davitian_Luenell_Chester,84,128505958,Twentieth Century Fox Film Corporation
+363,Hunger,2008.0,Not Rated,History,Steve McQueen,_Stuart Graham_Laine Megaw_Brian Milligan_Liam McMahon,96,154084,IFC Films
+364,Fargo,1996.0,R,Crime,_Ethan Coen_Joel Coen,_William H. Macy_Frances McDormand_Steve Buscemi_Peter Stormare,98,24611975,Gramercy Pictures (I)
+365,Frances Ha,2013.0,R,Comedy,Noah Baumbach,_Adam Driver_Greta Gerwig_Michael Zegen_Mickey Sumner_Patrick Heusinger,86,4063238,IFC Films
+366,Call Me by Your Name,2017.0,R,Romance,Luca Guadagnino,_Amira Casar_Antonio Rimoldi_Armie Hammer_Elena Bucci_Esther Garrel_Marco Sgrosso_Michael Stuhlbarg_Timoth_Vanda Capriolo_Victoire Du Bois,132,17736560,Sony Pictures Classics
+367,American Splendor,2003.0,R,Comedy,_Robert Pulcini_Shari Springer Berman,_Paul Giamatti_Shari Springer Berman_Harvey Pekar_Chris Ambrose,101,6003587,HBO Films
+368,The Wrestler,2008.0,R,Sport,Darren Aronofsky,_Mickey Rourke_Marisa Tomei_Evan Rachel Wood_Mark Margolis,109,26236603,Fox Searchlight Pictures
+369,Infernal Affairs,2004.0,R,Crime,_Alan Mak_Wai-keung Lau,_Andy Lau_Tony Chiu-Wai Leung_Anthony Chau-Sang Wong_Eric Tsang,101,169659,Miramax Films
+370,Manchester by the Sea,2016.0,R,Drama,Kenneth Lonergan,_Casey Affleck_Kyle Chandler_Lucas Hedges_Michelle Williams,137,47695120,Roadside Attractions
+371,Silver Linings Playbook,2012.0,R,Romance,David O. Russell,_Bradley Cooper_Chris Tucker_Jacki Weaver_Jennifer Lawrence_Julia Stiles_Robert De Niro,122,132092958,"Weinstein Company, The"
+372,Gandhi,1983.0,PG,History,Richard Attenborough,_Athol Fugard_Ben Kingsley_Candice Bergen_Edward Fox_Günther Maria Halmer_Ian Charleson_John Gielgud_John Mills_Martin Sheen_Trevor Howard,191,52767889,Columbia Pictures
+373,Star Wars: Episode VIII - The Last Jedi,2017.0,PG-13,Fantasy,Rian Johnson,_Adam Driver_Andy Serkis_Anthony Daniels_Benicio Del Toro_Billie Lourd_Carrie Fisher_Daisy Ridley_Domhnall Gleeson_Gwendoline Christie_John Boyega_Joseph Gordon-Levitt_Laura Dern_Lupita Nyong'o_Mark Hamill_Oscar Isaac_Tom Hardy,152,619845623,Walt Disney Studios Motion Pictures
+374,The Outlaw Josey Wales,1976.0,PG,Western,Clint Eastwood,_Bill McKinney_Chief Dan George_Clint Eastwood_Geraldine Keams_John Vernon_Joyce Jameson_Paula Trueman_Sam Bottoms_Sondra Locke_Woodrow Parfrey,135,31800000,Warner Bros.
+375,Dr. No,1963.0,PG,Thriller,Terence Young,_Sean Connery_Ursula Andress_Bernard Lee_Joseph Wiseman,110,16067035,United Artists
+376,Stuart Little 2,2002.0,PG,Family,Rob Minkoff,_Michael J. Fox_Geena Davis_Hugh Laurie_Jonathan Lipnicki,77,64956806,Columbia Pictures
+377,Open Range,2003.0,R,Western,Kevin Costner,_Abraham Benrubi_Diego Luna_Kevin Costner_Robert Duvall,139,58331254,Buena Vista Pictures
+378,Bad Santa,2003.0,R,Crime,Terry Zwigoff,_Bernie Mac_Billy Bob Thornton_John Ritter_Lauren Graham,91,60060328,Dimension Films
+379,An Education,2009.0,PG-13,Drama,Lone Scherfig,_Carey Mulligan_Peter Sarsgaard_Alfred Molina_Olivia Williams,100,12574715,Sony Pictures Classics
+380,Joy Ride,2001.0,R,Horror,John Dahl,_Steve Zahn_Paul Walker_Leelee Sobieski_Jessica Bowman,97,21973182,Twentieth Century Fox Film Corporation
+381,Superman,1978.0,PG,Thriller,Richard Donner,_Christopher Reeve_Margot Kidder_Gene Hackman_Marlon Brando,143,134218018,Warner Bros. Pictures
+382,Stranger Than Fiction,2006.0,PG-13,Romance,Marc Forster,_Will Ferrell_Emma Thompson_Dustin Hoffman_Queen Latifah,113,40137776,Columbia Pictures
+383,The Cider House Rules,1999.0,PG-13,Romance,Lasse Hallström,_Tobey Maguire_Charlize Theron_Michael Caine_Delroy Lindo,126,57545092,Miramax Films
+384,2001: A Space Odyssey,1968.0,G,Mystery,Stanley Kubrick,_Keir Dullea_Gary Lockwood_William Sylvester_Daniel Richter,141,56954992,Metro-Goldwyn-Mayer (MGM)
+385,Chronicle,2012.0,PG-13,Horror,Josh Trank,_Alex Russell_Dane DeHaan_Michael B. Jordan_Michael Kelly,84,64575175,Twentieth Century Fox Film Corporation
+386,Little Miss Sunshine,2006.0,R,Comedy,_Jonathan Dayton_Valerie Faris,_Steve Carell_Toni Collette_Greg Kinnear_Abigail Breslin,101,59891098,Fox Searchlight Pictures
+387,Say Anything...,1989.0,PG-13,Romance,Cameron Crowe,_John Cusack_Ione Skye_John Mahoney_Lili Taylor,100,20781385,Fox Network
+388,A Monster Calls,2016.0,PG-13,Fantasy,Juan Antonio Bayona,_Felicity Jones_Lewis MacDougall_Liam Neeson_Sigourney Weaver_Toby Kebbell,108,3730982,Focus Features
+389,The Shawshank Redemption,1994.0,R,Crime,Frank Darabont,_Tim Robbins_Morgan Freeman_Bob Gunton_William Sadler,142,28341469,Columbia Pictures
+390,Catch Me If You Can,2002.0,PG-13,Crime,Steven Spielberg,_Leonardo DiCaprio_Tom Hanks_Christopher Walken_Martin Sheen,141,164615351,DreamWorks Distribution
+391,Green Room,2016.0,R,Music,Jeremy Saulnier,_Alia Shawkat_Anton Yelchin_Imogen Poots_Patrick Stewart,95,3219029,A24
+392,Anomalisa,2015.0,R,Animation,_Charlie Kaufman_Duke Johnson,_David Thewlis_Jennifer Jason Leigh_Tom Noonan,90,3759286,Paramount Pictures
+393,The Remains of the Day,1993.0,PG,Romance,James Ivory,_Anthony Hopkins_Emma Thompson_John Haycraft_Christopher Reeve,134,22954968,Columbia Pictures
+394,Boys Don't Cry,1999.0,R,Crime,Kimberly Peirce,_Hilary Swank_Chloë Sevigny_Peter Sarsgaard_Brendan Sexton III,118,11533945,Fox Searchlight Pictures
+395,West Side Story,1961.0,Not Rated,Musical,_Jerome Robbins_Robert Wise,_George Chakiris_Natalie Wood_Ned Glass_Richard Beymer_Rita Moreno_Russ Tamblyn_Simon Oakland_Tony Mordente_Tucker Smith_William Bramley,153,43656822,United Artists
+396,Three Kings,1999.0,R,War,David O. Russell,_George Clooney_Mark Wahlberg_Ice Cube_Spike Jonze,114,60652036,Warner Bros. Pictures
+397,Chicago,2002.0,PG-13,Musical,Rob Marshall,_Renée Zellweger_Catherine Zeta-Jones_Richard Gere_Taye Diggs,113,170687518,Miramax Films
+398,Midnight Cowboy,1969.0,R,Drama,John Schlesinger,_Dustin Hoffman_Jon Voight_Sylvia Miles_John McGiver,113,44785053,United Artists
+399,Shaun of the Dead,2004.0,R,Comedy,Edgar Wright,_Simon Pegg_Nick Frost_Kate Ashfield_Lucy Davis,99,13542874,Focus Features
+400,The BFG,2016.0,PG,Family,Steven Spielberg,_Mark Rylance_Ruby Barnhill_Penelope Wilton_Jemaine Clement,117,55483770,Walt Disney Studios Motion Pictures
+401,Changing Lanes,2002.0,R,Thriller,Roger Michell,_Ben Affleck_Samuel L. Jackson_Kim Staunton_Toni Collette,98,66818548,Paramount Pictures
+402,Tinker Tailor Soldier Spy,2011.0,R,Thriller,Tomas Alfredson,_Gary Oldman_Colin Firth_Tom Hardy_Mark Strong,127,24149393,Focus Features
+403,THX 1138,1971.0,R,Crime,George Lucas,_Robert Duvall_Donald Pleasence_Don Pedro Colley_Maggie McOmie,86,2437000,Warner Bros. Pictures
+404,Pitch Perfect,2012.0,PG-13,Music,Jason Moore,_Anna Camp_Anna Kendrick_Brittany Snow_Rebel Wilson,112,65001093,Universal Pictures
+405,The Truman Show,1998.0,PG,Drama,Peter Weir,_Jim Carrey_Ed Harris_Laura Linney_Noah Emmerich,103,125618201,Paramount Pictures
+406,High Plains Drifter,1973.0,R,Western,Clint Eastwood,_Billy Curtis_Clint Eastwood_Geoffrey Lewis_Jack Ging_Marianna Hill_Mitch Ryan_Scott Walker_Stefan Gierasch_Ted Hartley_Verna Bloom,105,15700000,Universal Pictures
+407,The Aviator,2004.0,PG-13,Drama,Martin Scorsese,_Leonardo DiCaprio_Cate Blanchett_Kate Beckinsale_John C. Reilly,170,102608827,Miramax Films
+408,After Hours,1985.0,R,Comedy,Martin Scorsese,_Griffin Dunne_Rosanna Arquette_Verna Bloom_Tommy Chong,97,10600000,"Geffen Company, The"
+409,Phantom Thread,2017.0,R,Crime,Paul Thomas Anderson,_Bern Collaco_Camilla Rutherford_Cedric Tylleman_Daniel Day-Lewis_Dave Simon_Dinah Nicholson_Elli Banks_Harriet Leitch_Ingrid Sophie Schram_Jack Gordon_Jane Perry_Jason Redshaw_Joan Brown_Julie Duck_Kelly Schembri_Lesley Manville_Maryanne Frost_Pip Phillips_Richard Graham_Sarah Lamesch_Sue Clark_Vicky Krieps,130,20944175,Focus Features
+410,Rush,2013.0,R,Sport,Ron Howard,_Daniel Brühl_Chris Hemsworth_Olivia Wilde_Alexandra Maria Lara,123,26947624,Universal Pictures
+411,Citizen Kane,1941.0,PG,Mystery,Orson Welles,_Orson Welles_Joseph Cotten_Dorothy Comingore_Agnes Moorehead,119,1585634,RKO Radio Pictures
+412,Confessions of a Dangerous Mind,2002.0,R,Crime,George Clooney,_Sam Rockwell_Drew Barrymore_George Clooney_Julia Roberts,113,16003576,Miramax Films
+413,The Artist,2011.0,PG-13,Romance,Michel Hazanavicius,_Jean Dujardin_Bérénice Bejo_John Goodman_James Cromwell,100,44671682,"Weinstein Company, The"
+414,Bridget Jones's Diary,2001.0,R,Romance,Sharon Maguire,_Renée Zellweger_Colin Firth_Hugh Grant_Gemma Jones,97,71543427,Miramax Films
+415,Bridesmaids,2011.0,R,Comedy,Paul Feig,_Kristen Wiig_Maya Rudolph_Rose Byrne_Terry Crews,125,169106725,Universal Pictures
+416,Fruitvale Station,2013.0,R,Drama,Ryan Coogler,_Ahna O'Reilly_Ariana Neal_Chad Michael Murray_Kevin Durand_Melonie Diaz_Michael B. Jordan_Octavia Spencer,85,16097842,"Weinstein Company, The"
+417,A History of Violence,2005.0,R,Crime,David Cronenberg,_Viggo Mortensen_Maria Bello_Ed Harris_William Hurt,96,31493782,New Line Cinema
+418,Lost in Translation,2003.0,R,Drama,Sofia Coppola,_Bill Murray_Scarlett Johansson_Giovanni Ribisi_Anna Faris,102,44585453,Universal Home Entertainment
+419,Manhunter,1986.0,R,Crime,Michael Mann,_William Petersen_Kim Greist_Joan Allen_Brian Cox,119,8620929,De Laurentiis Entertainment Group (DEG)
+420,Black Panther,2018.0,PG-13,Drama,Ryan Coogler,_Andy Serkis_Angela Bassett_Chadwick Boseman_Danai Gurira_Daniel Kaluuya_Forest Whitaker_Letitia Wright_Lupita Nyong'o_Martin Freeman_Michael B. Jordan_Stan Lee_Sterling K. Brown_Winston Duke,134,612103128,Walt Disney Studios Motion Pictures
+421,Crazy Heart,2009.0,R,Music,Scott Cooper,_Jeff Bridges_Maggie Gyllenhaal_Colin Farrell_James Keane,112,39462438,Fox Searchlight Pictures
+422,The Hobbit: The Desolation of Smaug,2013.0,PG-13,Fantasy,Peter Jackson,_Dean O'Gorman_Elijah Wood_Graham McTavish_Ian McKellen_James Nesbitt_Ken Stott_Martin Freeman_Richard Armitage_Stephen Hunter_William Kircher,161,258366855,Warner Bros. Pictures
+423,The Painted Veil,2006.0,PG-13,Romance,John Curran,_Naomi Watts_Edward Norton_Liev Schreiber_Catherine An,125,8060487,Warner Independent Pictures (WIP)
+424,Invasion of the Body Snatchers,1978.0,PG,Horror,Philip Kaufman,_Art Hindle_Brooke Adams_Don Siegel_Donald Sutherland_Jeff Goldblum_Kevin McCarthy_Lelia Goldoni_Leonard Nimoy_Tom Luddy_Veronica Cartwright,115,24946533,United Artists
+425,Inherent Vice,2014.0,R,Crime,Paul Thomas Anderson,_Benicio Del Toro_Jena Malone_Joaquin Phoenix_Josh Brolin_Katherine Waterston_Martin Short_Maya Rudolph_Owen Wilson_Reese Witherspoon,0,8110975,Warner Bros.
+426,Spy Kids 2: Island of Lost Dreams,2002.0,PG,Family,Robert Rodriguez,_Alexa PenaVega_Daryl Sabara_Antonio Banderas_Carla Gugino,100,85846429,Dimension Films
+427,Ratatouille,2007.0,G,Family,_Brad Bird_Jan Pinkava,_Brad Garrett_Lou Romano_Patton Oswalt_Ian Holm,111,206445654,Buena Vista Pictures
+428,Hotel Rwanda,2004.0,PG-13,War,Terry George,_Don Cheadle_Sophie Okonedo_Joaquin Phoenix_Xolani Mali,121,23530892,United Artists
+429,Syriana,2005.0,R,Thriller,Stephen Gaghan,_George Clooney_Matt Damon_Amanda Peet_Kayvan Novak,126,50824620,Warner Bros. Pictures
+430,Escape from Alcatraz,1979.0,PG,Crime,Don Siegel,_Bruce M. Fischer_Clint Eastwood_Frank Ronzio_Fred Stuthman_Fred Ward_Jack Thibeau_Larry Hankin_Patrick McGoohan_Paul Benjamin_Roberts Blossom,112,43000000,Paramount Pictures
+431,Toy Story 2,1999.0,G,Family,_Ash Brannon_John Lasseter_Lee Unkrich,_Tom Hanks_Tim Allen_Joan Cusack_Kelsey Grammer,92,245852179,Buena Vista Pictures
+432,Blood Simple.,1985.0,R,Crime,_Ethan Coen_Joel Coen,_John Getz_Frances McDormand_Dan Hedaya_M. Emmet Walsh,99,2150000,Circle Films
+433,Deepwater Horizon,2016.0,PG-13,Thriller,Peter Berg,_Brad Leland_David Maldonado_Douglas M. Griffin_Gina Rodriguez_James DuMont_Joe Chrest_John Malkovich_Kurt Russell_Mark Wahlberg,107,61284947,Summit Entertainment
+434,Mad Max,1980.0,R,Thriller,George Miller,_Mel Gibson_Joanne Samuel_Hugh Keays-Byrne_Steve Bisley,88,8750000,American International Pictures (AIP)
+435,Forgetting Sarah Marshall,2008.0,R,Romance,Nicholas Stoller,_Kristen Bell_Jason Segel_Paul Rudd_Mila Kunis,111,63172463,Universal Pictures
+436,The Bourne Identity,2002.0,PG-13,Thriller,Doug Liman,_Franka Potente_Matt Damon_Chris Cooper_Clive Owen,119,121661683,Universal Pictures
+437,Midnight in Paris,2011.0,PG-13,Romance,Woody Allen,_Owen Wilson_Rachel McAdams_Kathy Bates_Kurt Fuller,100,56816662,Sony Pictures Classics
+438,The Invitation,2016.0,Not Rated,Horror,Karyn Kusama,_Emayatzy E. Corinealdi_Logan Marshall-Green_Michiel Huisman_Tammy Blanchard,100,231703,Drafthouse Films
+439,High Fidelity,2000.0,R,Music,Stephen Frears,_John Cusack_Iben Hjejle_Todd Louiso_Jack Black,113,27277055,Buena Vista Pictures
+440,Gladiator,2000.0,R,History,Ridley Scott,_Russell Crowe_Joaquin Phoenix_Connie Nielsen_Oliver Reed,155,187705427,DreamWorks Distribution
+441,"Lock, Stock and Two Smoking Barrels",1999.0,R,Crime,Guy Ritchie,_Jason Flemyng_Dexter Fletcher_Nick Moran_Jason Statham,107,3897569,Gramercy Pictures (I)
+442,Free Willy,1993.0,PG,Family,Simon Wincer,_Jason James Richter_Lori Petty_Michael Madsen_Jayne Atkinson,112,77698625,Warner Bros. Pictures
+443,Hairspray,2007.0,PG,Musical,Adam Shankman,_John Travolta_Queen Latifah_Nikki Blonsky_Michelle Pfeiffer,117,118871849,New Line Cinema
+444,Shrek,2001.0,PG,Family,_Andrew Adamson_Vicky Jenson,_Mike Myers_Eddie Murphy_Cameron Diaz_John Lithgow,90,267665011,DreamWorks Distribution
+445,Letters from Iwo Jima,2006.0,R,War,Clint Eastwood,_Ken Watanabe_Kazunari Ninomiya_Tsuyoshi Ihara_Ryo Kase,141,13756082,Paramount Pictures
+446,Wonder,2017.0,PG,Family,Stephen Chbosky,_Ali Liebert_Bryce Gheisar_Crystal Lowe_Danielle Rose Russell_Daveed Diggs_Emma Tremblay_Izabela Vidovic_Jacob Tremblay_Jennifer March_Julia Roberts_Mandy Patinkin_Mark Dozlaw_Nadji Jeter_Noah Jupe_Owen Wilson_Rukiya Bernard_Sonia Braga_Steve Bacic,113,132405151,Lionsgate
+447,"I, Tonya",2017.0,R,Comedy,Craig Gillespie,_Allison Janney_Bobby Cannavale_Bojana Novakovic_Caitlin Carver_Catherine Dyer_Evan George Vourazeris_James Sterling_Joey Thurmond_Joshua Mikel_Julianne Nicholson_Maizie Smith_Margot Robbie_Mckenna Grace_Paul Walter Hauser_Robin Dyke_Sebastian Stan,120,29804829,Neon
+448,Chicken Run,2000.0,G,Family,_Nick Park_Peter Lord,_Mel Gibson_Julia Sawalha_Phil Daniels_Lynn Ferguson,84,106834564,DreamWorks Distribution
+449,Corpse Bride,2005.0,PG,Animation,_Mike Johnson_Tim Burton,_Johnny Depp_Helena Bonham Carter_Emily Watson_Tracey Ullman,77,53359111,Warner Bros. Pictures
+450,Revolutionary Road,2008.0,R,Romance,Sam Mendes,_Leonardo DiCaprio_Kate Winslet_Christopher Fitzgerald_Jonathan Roumie,119,22911480,DreamWorks Distribution
+451,Mary Poppins,1964.0,G,Musical,Robert Stevenson,_Julie Andrews_Dick Van Dyke_David Tomlinson_Glynis Johns,139,102272727,Buena Vista Distribution Company
+452,Boyhood,2014.0,R,Drama,Richard Linklater,_Bonnie Cross_Elijah Smith_Ellar Coltrane_Ethan Hawke_Libby Villari_Lorelei Linklater_Marco Perella_Patricia Arquette_Steven Chester Prince,165,25379975,IFC Films
+453,The Princess Bride,1987.0,PG,Family,Rob Reiner,_Cary Elwes_Mandy Patinkin_Robin Wright_Chris Sarandon,98,30857814,Twentieth Century Fox Film Corporation
+454,Moon,2009.0,R,Thriller,Duncan Jones,_Sam Rockwell_Kevin Spacey_Dominique McElligott_Rosie Shaw,97,5009677,Sony Pictures Classics
+455,Rocky,1976.0,PG,Sport,John G. Avildsen,_Sylvester Stallone_Talia Shire_Burt Young_Carl Weathers,120,117235247,United Artists
+456,This Is the End,2013.0,R,Comedy,_Evan Goldberg_Seth Rogen,_Craig Robinson_Danny McBride_Emma Watson_James Franco_Jay Baruchel_Jonah Hill_Michael Cera_Mindy Kaling_Paul Rudd_Seth Rogen,107,101470202,Columbia Pictures
+457,Batman,1989.0,PG-13,Crime,Tim Burton,_Michael Keaton_Jack Nicholson_Kim Basinger_Robert Wuhl,126,251188924,Warner Bros. Pictures
+458,Moana,2016.0,PG,Musical,_Chris Williams_Don Hall_John Musker_Ron Clements,_Auli'i Cravalho_Dwayne Johnson_Rachel House_Temuera Morrison,107,248757044,Walt Disney Studios Motion Pictures
+459,Harry Potter and the Deathly Hallows: Part 2,2011.0,PG-13,Fantasy,David Yates,_Daniel Radcliffe_Emma Watson_Michael Gambon_Rupert Grint,130,381011219,Warner Bros. Pictures
+460,The Station Agent,2003.0,R,Comedy,Thomas McCarthy,_Peter Dinklage_Patricia Clarkson_Bobby Cannavale_Paul Benjamin,89,5739376,Miramax Films
+461,Misery,1990.0,R,Crime,Rob Reiner,_James Caan_Kathy Bates_Richard Farnsworth_Frances Sternhagen,107,61276872,Columbia Pictures
+462,Whip It,2009.0,PG-13,Comedy,Drew Barrymore,_Ellen Page_Drew Barrymore_Kristen Wiig_Sarah Habel,111,13043363,Fox Searchlight Pictures
+463,Mad Max Beyond Thunderdome,1985.0,PG-13,Thriller,_George Miller_George Ogilvie,_Mel Gibson_Tina Turner_Bruce Spence_Adam Cockburn,107,36200000,Warner Bros.
+464,Menace II Society,1993.0,R,Crime,_Albert Hughes_Allen Hughes,_Tyrin Turner_Larenz Tate_June Kyoto Lu_Toshi Toda,97,27900000,Black Entertainment Television (BET)
+465,Punch-Drunk Love,2002.0,R,Romance,Paul Thomas Anderson,_Adam Sandler_Emily Watson_Philip Seymour Hoffman_Jason Andrews,95,17844216,Columbia Pictures
+466,Blue Jasmine,2013.0,PG-13,Drama,Woody Allen,_Alec Baldwin_Bobby Cannavale_Cate Blanchett_Louis C.K._Michael Stuhlbarg_Peter Sarsgaard_Sally Hawkins,98,33405481,Sony Pictures Classics
+467,Stand by Me,1986.0,R,Drama,Rob Reiner,_Corey Feldman_Jerry O'Connell_River Phoenix_Wil Wheaton,89,52287414,Columbia Pictures
+468,Courage Under Fire,1996.0,R,War,Edward Zwick,_Denzel Washington_Meg Ryan_Lou Diamond Phillips_Michael Moriarty,117,59031057,American Broadcasting Company (ABC)
+469,Shrek 2,2004.0,PG,Family,_Andrew Adamson_Conrad Vernon_Kelly Asbury,_Mike Myers_Eddie Murphy_Cameron Diaz_Julie Andrews,93,436471036,DreamWorks Distribution
+470,The Wolf of Wall Street,2013.0,R,Crime,Martin Scorsese,_Cristin Milioti_Ethan Suplee_Jean Dujardin_Jon Bernthal_Jon Favreau_Jonah Hill_Kyle Chandler_Leonardo DiCaprio_Margot Robbie_Matthew McConaughey_Rob Reiner_Spike Jonze,180,116900694,Paramount Pictures
+471,Moonraker,1979.0,PG,Thriller,Lewis Gilbert,_Roger Moore_Lois Chiles_Michael Lonsdale_Richard Kiel,126,70308099,United Artists
+472,The School of Rock,2003.0,PG-13,Family,Richard Linklater,_Jack Black_Mike White_Joan Cusack_Adam Pascal,108,81261177,Paramount Pictures
+473,Twelve Monkeys,1996.0,R,Thriller,Terry Gilliam,_Bruce Willis_Madeleine Stowe_Brad Pitt_Joseph Melito,129,57141459,Universal Pictures
+474,mother!,2017.0,R,Horror,Darren Aronofsky,_Amanda Chiu_Brian Gleeson_Domhnall Gleeson_Ed Harris_Eric Davis_Javier Bardem_Jennifer Lawrence_Jovan Adepo_Kristen Wiig_Michelle Pfeiffer_Patricia Summersett_Stefan Simchowitz_Stephen McHattie,121,17800004,Paramount Pictures
+475,"sex, lies, and videotape",1989.0,R,Drama,Steven Soderbergh,_James Spader_Andie MacDowell_Peter Gallagher_Laura San Giacomo,100,24741700,"Criterion Collection, The"
+476,Neighbors,2014.0,R,Comedy,Nicholas Stoller,_Lisa Kudrow_Rose Byrne_Seth Rogen_Zac Efron,97,150157400,Universal Pictures
+477,The Bridges of Madison County,1995.0,PG-13,Romance,Clint Eastwood,_Clint Eastwood_Meryl Streep_Annie Corley_Victor Slezak,135,71516617,Warner Bros. Pictures
+478,Best in Show,2000.0,PG-13,Comedy,Christopher Guest,_Fred Willard_Eugene Levy_Catherine O'Hara_Jennifer Coolidge,90,18621249,Warner Bros. Domestic Television Distribution
+479,Julie & Julia,2009.0,PG-13,Romance,Nora Ephron,_Amy Adams_Meryl Streep_Chris Messina_Stanley Tucci,123,94125426,Columbia Pictures
+480,The Untouchables,1987.0,R,Crime,Brian De Palma,_Kevin Costner_Sean Connery_Robert De Niro_Charles Martin Smith,119,76270454,Paramount Pictures
+481,Monster House,2006.0,PG,Family,Gil Kenan,_Mitchel Musso_Sam Lerner_Spencer Locke_Ryan Newman,91,73661010,Sony Pictures Entertainment (SPE)
+482,The Fighter,2010.0,R,Sport,David O. Russell,_Mark Wahlberg_Christian Bale_Amy Adams_Melissa Leo,115,93617009,Paramount Pictures
+483,Blue Velvet,1986.0,R,Thriller,David Lynch,_Isabella Rossellini_Kyle MacLachlan_Dennis Hopper_Laura Dern,120,8551228,De Laurentiis Entertainment Group (DEG)
+484,It,2017.0,R,Horror,Andres Muschietti,_Bill Skarsgård_Chosen Jacobs_Finn Wolfhard_Jack Grazer_Jaeden Lieberher_Jake Sim_Javier Botet_Jeremy Ray Taylor_Megan Charpentier_Nicholas Hamilton_Owen Teague_Sophia Lillis_Steven Williams_Wyatt Oleff,135,327481748,New Line Cinema
+485,Idiocracy,2006.0,R,Comedy,Mike Judge,_Luke Wilson_Maya Rudolph_Dax Shepard_Terry Crews,84,438653,Twentieth Century Fox Film Corporation
+486,The Host,2007.0,R,Comedy,Joon-ho Bong,_Kang-ho Song_Hee-Bong Byun_Hae-il Park_Doona Bae,119,2201923,Magnolia Pictures
+487,Serenity,2005.0,PG-13,Thriller,Joss Whedon,_Nathan Fillion_Gina Torres_Chiwetel Ejiofor_Alan Tudyk,119,25514517,Universal Pictures
+488,How to Train Your Dragon 2,2014.0,PG,Family,Dean DeBlois,_America Ferrera_Cate Blanchett_Christopher Mintz-Plasse_Craig Ferguson_Gerard Butler_Jay Baruchel_Jonah Hill_Kristen Wiig,102,177002924,Paramount Pictures
+489,Sweeney Todd: The Demon Barber of Fleet Street,2007.0,R,Musical,Tim Burton,_Johnny Depp_Helena Bonham Carter_Alan Rickman_Timothy Spall,116,52898073,DreamWorks SKG
+490,Jackie,2016.0,R,Drama,Pablo Larraín,_Natalie Portman_Peter Sarsgaard_Greta Gerwig_Billy Crudup,100,13958679,Fox Searchlight Pictures
+491,Beetlejuice,1988.0,PG,Comedy,Tim Burton,_Alec Baldwin_Geena Davis_Michael Keaton_Annie McEnroe,92,73707461,Warner Bros. Pictures
+492,Rear Window,1954.0,PG,Thriller,Alfred Hitchcock,_Frank Cady_Georgine Darcy_Grace Kelly_James Stewart_Judith Evelyn_Raymond Burr_Ross Bagdasarian_Sara Berner_Thelma Ritter_Wendell Corey,112,36764313,Paramount Pictures
+493,My Cousin Vinny,1992.0,R,Crime,Jonathan Lynn,_Joe Pesci_Marisa Tomei_Ralph Macchio_Mitchell Whitfield,120,52929168,Twentieth Century Fox Film Corporation
+494,The Conjuring,2013.0,R,Horror,James Wan,_Lili Taylor_Patrick Wilson_Ron Livingston_Vera Farmiga,112,137400141,New Line Cinema
+495,Side Effects,2013.0,R,Crime,Steven Soderbergh,_Catherine Zeta Jones_Channing Tatum_Jude Law_Rooney Mara,106,32172757,Open Road Films
+496,Death at a Funeral,2007.0,R,Comedy,Frank Oz,_Matthew Macfadyen_Peter Dinklage_Ewen Bremner_Keeley Hawes,87,8579684,Metro-Goldwyn-Mayer (MGM)
+497,Crimes and Misdemeanors,1989.0,PG-13,Comedy,Woody Allen,_Martin Landau_Woody Allen_Bill Bernstein_Claire Bloom,104,18254702,Orion Pictures Corporation
+498,Midnight Special,2016.0,PG-13,Thriller,Jeff Nichols,_Michael Shannon_Joel Edgerton_Kirsten Dunst_Adam Driver,112,3707794,Warner Bros.
+499,Saturday Night Fever,1977.0,R,Music,John Badham,_John Travolta_Karen Lynn Gorney_Barry Miller_Joseph Cali,118,94213184,Paramount Pictures
+500,The Witches of Eastwick,1987.0,R,Comedy,George Miller,_Cher_Jack Nicholson_Michelle Pfeiffer_Susan Sarandon,118,63766510,Warner Bros.
+501,Mulholland Dr.,2001.0,R,Romance,David Lynch,_Naomi Watts_Laura Harring_Justin Theroux_Jeanne Bates,147,7220243,Universal Pictures
+502,Creed,2015.0,PG-13,Sport,Ryan Coogler,_Michael B. Jordan_Phylicia Rashad_Sylvester Stallone_Tessa Thompson,133,109767581,Warner Bros.
+503,Hellboy II: The Golden Army,2008.0,PG-13,Fantasy,Guillermo del Toro,_Ron Perlman_Selma Blair_Doug Jones_John Alexander,120,75754670,Universal Pictures
+504,Sexy Beast,2001.0,R,Crime,Jonathan Glazer,_Ray Winstone_Ben Kingsley_Ian McShane_Amanda Redman,89,6946056,Twentieth Century Fox Film Corporation
+505,"Three Billboards Outside Ebbing, Missouri",2017.0,R,Crime,Martin McDonagh,_Abbie Cornish_Alejandro Barrios_Caleb Landry Jones_Clarke Peters_Darrell Britt-Gibson_Frances McDormand_Jason Redford_John Hawkes_Kathryn Newton_Kerry Condon_Lucas Hedges_Peter Dinklage_Riya May Atwood_Sam Rockwell_Samara Weaving_Woody Harrelson_Zeljko Ivanek,115,53990364,Fox Searchlight Pictures
+506,The Last of the Mohicans,1992.0,R,War,Michael Mann,_Daniel Day-Lewis_Madeleine Stowe_Russell Means_Eric Schweig,112,75505856,Twentieth Century Fox Film Corporation
+507,All About Eve,1950.0,Not Rated,Drama,Joseph L. Mankiewicz,_Anne Baxter_Barbara Bates_Bette Davis_Celeste Holm_Gary Merrill_George Sanders_Gregory Ratoff_Hugh Marlowe_Marilyn Monroe_Thelma Ritter,138,10177,Twentieth Century Fox
+508,Wild,2014.0,R,Drama,Jean-Marc Vallée,_Gaby Hoffmann_Laura Dern_Michiel Huisman_Reese Witherspoon,115,37880356,Fox Searchlight Pictures
+509,Cloudy with a Chance of Meatballs,2009.0,PG,Family,_Phil Lord_Christopher Miller,_Anna Faris_Bill Hader_Bruce Campbell_James Caan,90,124870275,Columbia Pictures
+510,Jaws,1975.0,PG,Horror,Steven Spielberg,_Roy Scheider_Robert Shaw_Richard Dreyfuss_Lorraine Gary,124,260000000,Universal Pictures
+511,Premium Rush,2012.0,PG-13,Thriller,David Koepp,_Joseph Gordon-Levitt_Michael Shannon_Dania Ramirez_Sean Kennedy,91,20275446,Columbia Pictures
+512,Inception,2010.0,PG-13,Thriller,Christopher Nolan,_Ellen Page_Joseph Gordon-Levitt_Ken Watanabe_Leonardo DiCaprio,148,292576195,Warner Bros. Pictures
+513,Cinderella Man,2005.0,PG-13,Sport,Ron Howard,_Russell Crowe_Renée Zellweger_Craig Bierko_Paul Giamatti,144,61649911,Universal Pictures
+514,Baby Driver,2017.0,R,Music,Edgar Wright,_Ansel Elgort_C.J. Jones_Eiza González_Jamie Foxx_Jon Bernthal_Jon Hamm_Kevin Spacey_Lily James_Micah Howard_Morgan Brown_Morse Diggs,112,107825862,Columbia Pictures
+515,The Muppets,2011.0,PG,Family,James Bobin,_Amy Adams_Jason Segel_Chris Cooper_Rashida Jones,98,88631237,Walt Disney Studios Motion Pictures
+516,Calvary,2014.0,R,Drama,John Michael McDonagh,_Brendan Gleeson_Chris O'Dowd_Kelly Reilly_Aidan Gillen,100,3593460,Fox Searchlight Pictures
+517,The American President,1995.0,PG-13,Romance,Rob Reiner,_Annette Bening_Martin Sheen_Michael Douglas_Michael J. Fox,114,65000000,Columbia Pictures
+518,Nebraska,2013.0,R,Drama,Alexander Payne,_Bob Odenkirk_Bruce Dern_June Squibb_Stacy Keach_Will Forte,115,17654912,Paramount Pictures
+519,Selma,2014.0,PG-13,History,Ava DuVernay,_Andre Holland_Carmen Ejogo_Common_David Oyelowo_Giovanni Ribisi_Lorraine Toussaint_Tim Roth_Tom Wilkinson_Wendell Pierce,128,52076908,Paramount Pictures
+520,Margin Call,2011.0,R,Thriller,J.C. Chandor,_Zachary Quinto_Stanley Tucci_Kevin Spacey_Paul Bettany,105,5354039,Roadside Attractions
+521,T2 Trainspotting,2017.0,R,Drama,Danny Boyle,_Ewan McGregor_Ewen Bremner_Jonny Lee Miller_Robert Carlyle,117,2395410,TriStar Pictures
+522,The Color of Money,1986.0,R,Sport,Martin Scorsese,_Paul Newman_Tom Cruise_Mary Elizabeth Mastrantonio_Helen Shaver,119,52293982,Buena Vista Pictures
+523,The Deer Hunter,1978.0,R,War,Michael Cimino,_Robert De Niro_Christopher Walken_John Cazale_John Savage,182,48979328,Universal Pictures
+524,Logan Lucky,2017.0,PG-13,Crime,Steven Soderbergh,_Adam Driver_Boden Johnston_Channing Tatum_Daniel Craig_David Denman_Farrah Mackenzie_Hilary Swank_Jim O'Heir_Katherine Waterston_Katie Holmes_Rebecca Koon_Riley Keough_Sebastian Stan_Seth MacFarlane_Sutton Johnston,118,27780977,ARP Sélection
+525,Ronin,1998.0,R,Crime,John Frankenheimer,_Robert De Niro_Jean Reno_Natascha McElhone_Stellan Skarsgård,122,41616262,Metro-Goldwyn-Mayer (MGM)
+526,Frost/Nixon,2008.0,R,History,Ron Howard,_Frank Langella_Michael Sheen_Kevin Bacon_Sam Rockwell,122,18593156,Universal Pictures
+527,The Illusionist,2006.0,PG-13,Romance,Neil Burger,_Edward Norton_Jessica Biel_Paul Giamatti_Rufus Sewell,110,39868642,Yari Film Group Releasing
+528,United 93,2006.0,R,Crime,Paul Greengrass,_David Alan Basche_Olivia Thirlby_Liza Colón-Zayas_J.J. Johnson,111,31567134,Universal Pictures
+529,Finding Nemo,2003.0,G,Family,_Andrew Stanton_Lee Unkrich,_Albert Brooks_Ellen DeGeneres_Alexander Gould_Willem Dafoe,100,380843261,Buena Vista Pictures
+530,Okja,2017.0,TV-MA,Drama,Joon-ho Bong,_Colm Hill_Giancarlo Esposito_Jake Gyllenhaal_Jose Carias_Kathryn Kirkpatrick_Michael Mitton_Seo-Hyeon Ahn_Sheena Kamal_Tilda Swinton,120,-1000,Netflix
+531,Monster,2003.0,R,Crime,Patty Jenkins,_Charlize Theron_Christina Ricci_Bruce Dern_Lee Tergesen,109,34469210,Newmarket Films
+532,The Sisterhood of the Traveling Pants,2005.0,PG,Romance,Ken Kwapis,_Alexis Bledel_Amber Tamblyn_America Ferrera_Blake Lively,119,39008741,Warner Bros. Pictures
+533,The New World,2005.0,PG-13,Romance,Terrence Malick,_Colin Farrell_Q'orianka Kilcher_Christopher Plummer_Christian Bale,135,12712093,New Line Cinema
+534,In Good Company,2004.0,PG-13,Romance,Paul Weitz,_Dennis Quaid_Topher Grace_Scarlett Johansson_Marg Helgenberger,109,45489752,Universal Pictures
+535,21 Jump Street,2012.0,R,Crime,_Phil Lord_Christopher Miller,_Jonah Hill_Channing Tatum_Ice Cube_Brie Larson,109,138447667,Columbia Pictures
+536,Jane Eyre,2011.0,PG-13,Romance,Cary Joji Fukunaga,_Mia Wasikowska_Michael Fassbender_Jamie Bell_Su Elliot,115,11242660,Focus Features
+537,Skyfall,2012.0,PG-13,Crime,Sam Mendes,_Daniel Craig_Helen McCrory_Javier Bardem_Judi Dench_Naomie Harris_Ralph Fiennes,143,304360277,Columbia Pictures
+538,The Queen,2006.0,PG-13,Drama,Stephen Frears,_Helen Mirren_Michael Sheen_James Cromwell_Alex Jennings,103,56441711,Miramax Films
+539,Paddington,2015.0,PG,Family,Paul King,_Hugh Bonneville_Jim Broadbent_Julie Walters_Nicole Kidman_Sally Hawkins,95,76223578,TWC-Dimension
+540,Happy Feet,2006.0,PG,Family,_George Miller_Judy Morris_Warren Coleman,_Brittany Murphy_Elijah Wood_Hugh Jackman_Robin Williams,108,198000317,Village Roadshow Entertainment
+541,Locke,2014.0,R,Drama,Steven Knight,_Tom Hardy_Olivia Colman_Ruth Wilson_Andrew Scott,85,1361423,A24
+542,The Godfather: Part II,1974.0,R,Crime,Francis Ford Coppola,_Al Pacino_Diane Keaton_Robert De Niro_Robert Duvall,200,57300000,Paramount Pictures
+543,The Founder,2017.0,PG-13,History,John Lee Hancock,_B.J. Novak_John Carroll Lynch_Justin Randell Brooke_Katie Kneeland_Laura Dern_Linda Cardellini_Michael Keaton_Nick Offerman_Patrick Wilson,115,12785093,"Weinstein Company, The"
+544,The Bridge on the River Kwai,1957.0,PG,War,David Lean,_Alec Guinness_André Morell_Geoffrey Horne_Jack Hawkins_James Donald_John Boxer_Percy Herbert_Peter Williams_Sessue Hayakawa_William Holden,161,44908000,Columbia Pictures
+545,War for the Planet of the Apes,2017.0,PG-13,War,Matt Reeves,_Amiah Miller_Andy Serkis_Gabriel Chavarria_Karin Konoval_Michael Adamthwaite_Steve Zahn_Terry Notary_Toby Kebbell_Ty Olsson_Woody Harrelson,140,146880162,Twentieth Century Fox Film Corporation
+546,Beauty and the Beast,1991.0,G,Musical,_Gary Trousdale_Kirk Wise,_Paige O'Hara_Robby Benson_Jesse Corti_Rex Everhart,84,218967620,Buena Vista Pictures
+547,Ghost World,2001.0,R,Comedy,Terry Zwigoff,_Steve Buscemi_Thora Birch_Scarlett Johansson_Brad Renfro,111,6217849,United Artists
+548,Blue Ruin,2014.0,R,Thriller,Jeremy Saulnier,_Amy Hargreaves_Devin Ratray_Kevin Kolack_Macon Blair,90,258113,Picturehouse Entertainment
+549,Another Earth,2011.0,PG-13,Drama,Mike Cahill,_Brit Marling_William Mapother_Matthew-Lee Erlbach_DJ Flava,92,1316074,Fox Searchlight Pictures
+550,Chinatown,1974.0,R,Crime,Roman Polanski,_Jack Nicholson_Faye Dunaway_John Huston_Perry Lopez,130,29200000,Paramount Pictures
+551,Rushmore,1998.0,R,Comedy,Wes Anderson,_Jason Schwartzman_Bill Murray_Olivia Williams_Seymour Cassel,93,17105219,Touchstone Pictures
+552,Little Shop of Horrors,1986.0,PG-13,Musical,Frank Oz,_Rick Moranis_Ellen Greene_Vincent Gardenia_Levi Stubbs,94,38747385,Warner Bros. Pictures
+553,The Martian,2015.0,PG-13,Comedy,Ridley Scott,_Jeff Daniels_Jessica Chastain_Kate Mara_Kristen Wiig_Matt Damon,144,228433663,Twentieth Century Fox Film Corporation
+554,The Ides of March,2011.0,R,Drama,George Clooney,_Paul Giamatti_George Clooney_Philip Seymour Hoffman_Ryan Gosling,101,40962534,Columbia Pictures
+555,Dirty Rotten Scoundrels,1988.0,PG,Crime,Frank Oz,_Steve Martin_Michael Caine_Glenne Headly_Anton Rodgers,110,42039085,Orion Pictures Corporation
+556,The Player,1992.0,R,Crime,Robert Altman,_Tim Robbins_Greta Scacchi_Fred Ward_Whoopi Goldberg,124,21706100,Fine Line Features
+557,Birdman or (The Unexpected Virtue of Ignorance),2014.0,R,Comedy,Alejandro González Iñárritu,_Amy Ryan_Andrea Riseborough_Edward Norton_Emma Stone_Michael Keaton_Naomi Watts_Zach Galifianakis,119,42340598,Fox Searchlight Pictures
+558,Only Lovers Left Alive,2014.0,R,Romance,Jim Jarmusch,_Anton Yelchin_Jeffrey Wright_John Hurt_Mia Wasikowska_Tilda Swinton_Tom Hiddleston,123,1879534,Sony Pictures Classics
+559,Robot and Frank,2012.0,PG-13,Crime,Jake Schreier,_Frank Langella_Liv Tyler_Peter Sarsgaard_Susan Sarandon,89,3325638,Stage 6 Films
+560,The Lion King,1994.0,G,Musical,_Rob Minkoff_Roger Allers,_James Earl Jones_Jeremy Irons_Matthew Broderick_Whoopi Goldberg,89,312900000,Buena Vista Pictures
+561,Fast Times at Ridgemont High,1982.0,R,Music,Amy Heckerling,_Sean Penn_Jennifer Jason Leigh_Judge Reinhold_Robert Romanus,90,27092880,Universal Pictures
+562,The Constant Gardener,2005.0,R,Romance,Fernando Meirelles,_Ralph Fiennes_Rachel Weisz_Danny Huston_Hubert Koundé,129,33579797,Focus Features
+563,Lagaan: Once Upon a Time in India,2002.0,PG,Musical,Ashutosh Gowariker,_Aamir Khan_Raghuvir Yadav_Gracy Singh_Rachel Shelley,224,70147,Sony Pictures Classics
+564,The Social Network,2010.0,PG-13,Comedy,David Fincher,_Jesse Eisenberg_Andrew Garfield_Justin Timberlake_Rooney Mara,120,96962694,Columbia Pictures
+565,Almost Famous,2000.0,R,Music,Cameron Crowe,_Billy Crudup_Patrick Fugit_Kate Hudson_Frances McDormand,122,32534850,Sony Pictures Home Entertainment
+566,Sideways,2004.0,R,Romance,Alexander Payne,_Paul Giamatti_Sandra Oh_Thomas Haden Church_Virginia Madsen,126,71503593,Fox Searchlight Pictures
+567,Bridge of Spies,2015.0,PG-13,Thriller,Steven Spielberg,_Alan Alda_Amy Ryan_Mark Rylance_Tom Hanks,141,72313754,Walt Disney Studios Motion Pictures
+568,The Prestige,2006.0,PG-13,Thriller,Christopher Nolan,_Christian Bale_Hugh Jackman_Scarlett Johansson_Michael Caine,130,53089891,Buena Vista Pictures
+569,The Pianist,2002.0,R,War,Roman Polanski,_Adrien Brody_Thomas Kretschmann_Frank Finlay_Emilia Fox,150,32572577,Focus Features
+570,Broken Flowers,2005.0,R,Comedy,Jim Jarmusch,_Bill Murray_Jessica Lange_Sharon Stone_Julie Delpy,106,13744960,Focus Features
+571,The Sting,1973.0,PG,Crime,George Roy Hill,_Paul Newman_Robert Redford_Robert Shaw_Charles Durning,129,159600000,Universal Pictures
+572,The Squid and the Whale,2005.0,R,Comedy,Noah Baumbach,_Owen Kline_Jeff Daniels_Laura Linney_Jesse Eisenberg,81,7362100,Samuel Goldwyn Films
+573,No Country for Old Men,2007.0,R,Western,_Ethan Coen_Joel Coen,_Tommy Lee Jones_Javier Bardem_Josh Brolin_Woody Harrelson,122,74283625,Miramax Films
+574,Grosse Pointe Blank,1997.0,R,Crime,George Armitage,_Dan Aykroyd_Joan Cusack_John Cusack_Minnie Driver,107,28014536,Buena Vista Pictures Distribution
+575,The Revenant,2015.0,R,Western,Alejandro González Iñárritu,_Domhnall Gleeson_Forrest Goodluck_Leonardo DiCaprio_Tom Hardy_Will Poulter,156,183637894,Twentieth Century Fox Film Corporation
+576,The Edge of Seventeen,2016.0,R,Comedy,Kelly Fremon Craig,_Blake Jenner_Hailee Steinfeld_Haley Lu Richardson_Kyra Sedgwick_Woody Harrelson,104,14260193,STX Entertainment
+577,Diary of the Dead,2008.0,R,Horror,George A. Romero,_Michelle Morgan_Joshua Close_Shawn Roberts_Todd Schroeder,95,958961,Third Rail Releasing
+578,Hush,2016.0,R,Horror,Mike Flanagan,_John Gallagher Jr._Kate Siegel_Michael Trucco_Samantha Sloyan,81,-1000,Netflix
+579,In Bruges,2008.0,R,Crime,Martin McDonagh,_Colin Farrell_Brendan Gleeson_Ciarán Hinds_Elizabeth Berrington,107,7757130,Focus Features
+580,Frankenweenie,2012.0,PG,Family,Tim Burton,_Winona Ryder_Catherine O'Hara_Martin Short_Martin Landau,87,35291068,Walt Disney Pictures
+581,The Tree of Life,2011.0,PG-13,Fantasy,Terrence Malick,_Brad Pitt_Sean Penn_Jessica Chastain_Hunter McCracken,139,13303319,Fox Searchlight Pictures
+582,Philomena,2013.0,PG-13,Drama,Stephen Frears,_Judi Dench_Steve Coogan_Sophie Kennedy Clark_Mare Winningham,98,37707719,Twentieth Century Fox Film Corporation
+583,Jurassic Park,1993.0,PG-13,Thriller,Steven Spielberg,_Jeff Goldblum_Laura Dern_Richard Attenborough_Sam Neill,127,402453882,Universal Pictures
+584,Win Win,2011.0,R,Comedy,Thomas McCarthy,_Paul Giamatti_Amy Ryan_Jeffrey Tambor_Bobby Cannavale,106,10179275,Fox Searchlight Pictures
+585,Flushed Away,2006.0,PG,Family,_David Bowers_Sam Fell,_Hugh Jackman_Kate Winslet_Ian McKellen_Jean Reno,85,64665672,Paramount Pictures
+586,A Most Violent Year,2014.0,R,Crime,J.C. Chandor,_Albert Brooks_Alessandro Nivola_Catalina Sandino Moreno_Christopher Abbott_David Oyelowo_Elyes Gabel_Jessica Chastain_Oscar Isaac_Peter Gerety,125,5740310,A24
+587,Crash,2005.0,R,Crime,Paul Haggis,_Don Cheadle_Sandra Bullock_Thandie Newton_Karina Arroyave,112,54580300,Lions Gate Films
+588,Night of the Living Dead,1968.0,Not Rated,Horror,George A. Romero,_Duane Jones_Judith O'Dea_Karl Hardman_Marilyn Eastman,96,89029,Continental Distributing
+589,The Silence of the Lambs,1991.0,R,Crime,Jonathan Demme,_Jodie Foster_Anthony Hopkins_Lawrence A. Bonney_Kasi Lemmons,118,130742922,Orion Pictures Corporation
+590,An Officer and a Gentleman,1982.0,R,Romance,Taylor Hackford,_Richard Gere_Debra Winger_David Keith_Robert Loggia,124,129795552,Paramount Pictures
+591,Nocturnal Animals,2016.0,R,Thriller,Tom Ford,_Aaron Taylor-Johnson_Amy Adams_Isla Fisher_Jake Gyllenhaal_Michael Shannon,116,10639114,Focus Features
+592,Into the Woods,2014.0,PG,Musical,Rob Marshall,_Anna Kendrick_Chris Pine_Emily Blunt_Frances De La Tour_James Corden_Johnny Depp_Lilla Crawford_Lucy Punch_Meryl Streep,125,128002372,Walt Disney Studios Motion Pictures
+593,Philadelphia,1993.0,PG-13,Drama,Jonathan Demme,_Tom Hanks_Denzel Washington_Roberta Maxwell_Buzz Kilman,125,77324422,TriStar Pictures
+594,Enter the Void,2010.0,Not Rated,Thriller,Gaspar Noé,_Cyril Roy_Nathaniel Brown_Olly Alexander_Paz de la Huerta,161,336467,IFC Films
+595,Arthur Christmas,2011.0,PG,Animation,_Barry Cook_Sarah Smith,_James McAvoy_Jim Broadbent_Bill Nighy_Hugh Laurie,100,46462469,Columbia Pictures
+596,Captain America: The First Avenger,2011.0,PG-13,Thriller,Joe Johnston,_Chris Evans_Hugo Weaving_Samuel L. Jackson_Hayley Atwell,125,176654505,Paramount Pictures
+597,There's Something About Mary,1998.0,R,Romance,_Bobby Farrelly_Peter Farrelly,_Cameron Diaz_Matt Dillon_Ben Stiller_Lee Evans,119,176484651,Twentieth Century Fox Film Corporation
+598,Mystic River,2003.0,R,Crime,Clint Eastwood,_Emmy Rossum_Kevin Bacon_Laura Linney_Laurence Fishburne_Sean Penn_Tim Robbins,138,90135191,Warner Bros. Pictures
+599,The African Queen,1952.0,PG,War,John Huston,_Errol John_Gerald Onn_Humphrey Bogart_Katharine Hepburn_Peter Bull_Peter Swanwick_Richard Marner_Robert Morley_Theodore Bikel_Walter Gotell,105,536118,United Artists
+600,The Maltese Falcon,1941.0,Not Rated,Film-Noir,John Huston,_Barton MacLane_Elisha Cook Jr._Gladys George_Humphrey Bogart_Jerome Cowan_Lee Patrick_Mary Astor_Peter Lorre_Sydney Greenstreet_Ward Bond,100,-1000,Warner Bros.
+601,Atonement,2007.0,R,War,Joe Wright,_Keira Knightley_James McAvoy_Brenda Blethyn_Saoirse Ronan,123,50927067,Focus Features
+602,Up,2009.0,PG,Family,_Bob Peterson_Pete Docter,_Edward Asner_Jordan Nagai_John Ratzenberger_Christopher Plummer,96,293004164,Walt Disney Studios Motion Pictures
+603,Hot Fuzz,2007.0,R,Comedy,Edgar Wright,_Simon Pegg_Nick Frost_Martin Freeman_Bill Nighy,121,23637265,Rogue Pictures
+604,Blade Runner,1982.0,R,Thriller,Ridley Scott,_Harrison Ford_Rutger Hauer_Sean Young_Edward James Olmos,117,27000000,Warner Bros. Pictures
+605,Million Dollar Baby,2004.0,PG-13,Sport,Clint Eastwood,_Hilary Swank_Clint Eastwood_Morgan Freeman_Jay Baruchel,132,100492203,Warner Bros. Pictures
+606,Half Nelson,2006.0,R,Drama,Ryan Fleck,_Ryan Gosling_Anthony Mackie_Shareeka Epps_Jeff Lima,106,2694973,thinkfilm
+607,Beasts of No Nation,2015.0,Not Rated,War,Cary Joji Fukunaga,_Abraham Attah_Emmanuel Affadzi_Ricky Adelayitor_Andrew Adote,137,83861,Netflix
+608,When Harry Met Sally...,1989.0,R,Romance,Rob Reiner,_Billy Crystal_Meg Ryan_Carrie Fisher_Bruno Kirby,96,92823600,Columbia Pictures
+609,Babe,1995.0,G,Family,Chris Noonan,_James Cromwell_Magda Szubanski_Christine Cavanaugh_Miriam Margolyes,89,66600000,American Broadcasting Company (ABC)
+610,A Dangerous Method,2011.0,R,Thriller,David Cronenberg,_Michael Fassbender_Keira Knightley_Viggo Mortensen_Vincent Cassel,99,5702083,Sony Pictures Classics
+611,"The Way, Way Back",2013.0,PG-13,Comedy,_Jim Rash_Nat Faxon,_Allison Janney_Amanda Peet_Annasophia Robb_Liam James_Maya Rudolph_Rob Corddry_Sam Rockwell_Steve Carell_Toni Collette,103,21501098,Fox Searchlight Pictures
+612,Forrest Gump,1994.0,PG-13,Romance,Robert Zemeckis,_Gary Sinise_Robin Wright_Sally Field_Tom Hanks,142,330252182,Paramount Pictures
+613,It Comes at Night,2017.0,R,Horror,Trey Edward Shults,_Carmen Ejogo_Chase Joliet_Christopher Abbott_David Pendleton_Griffin Robert Faulkner_Joel Edgerton_Kelvin Harrison Jr._Mick O'Rourke_Mikey_Riley Keough,91,13985117,A24
+614,Rescue Dawn,2007.0,PG-13,War,Werner Herzog,_Christian Bale_Steve Zahn_Jeremy Davies_Zach Grenier,126,5490423,Metro-Goldwyn-Mayer (MGM)
+615,Children of Men,2006.0,R,Thriller,Alfonso Cuarón,_Chiwetel Ejiofor_Clive Owen_Julianne Moore_Michael Caine,109,35552383,Universal Pictures
+616,The Royal Tenenbaums,2001.0,R,Comedy,Wes Anderson,_Gene Hackman_Gwyneth Paltrow_Anjelica Huston_Ben Stiller,110,52364010,Buena Vista Pictures
+617,Tarzan,1999.0,G,Family,_Chris Buck_Kevin Lima,_Tony Goldwyn_Minnie Driver_Brian Blessed_Glenn Close,88,171091819,Buena Vista Pictures
+618,Capote,2005.0,R,Crime,Bennett Miller,_Philip Seymour Hoffman_Clifton Collins Jr._Catherine Keener_Allie Mickelson,114,28747570,Sony Pictures Home Entertainment
+619,28 Weeks Later,2007.0,R,Horror,Juan Carlos Fresnadillo,_Jeremy Renner_Rose Byrne_Robert Carlyle_Harold Perrineau,99,28638916,Fox Atomic
+620,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,PG,Thriller,Stanley Kubrick,_Peter Sellers_George C. Scott_Sterling Hayden_Keenan Wynn,95,275902,Columbia Pictures
+621,Goodfellas,1990.0,R,Crime,Martin Scorsese,_Joe Pesci_Lorraine Bracco_Paul Sorvino_Ray Liotta_Robert De Niro,146,46836394,Warner Bros. Pictures
+622,All Is Lost,2013.0,PG-13,Drama,J.C. Chandor,Robert Redford,106,6263670,Lionsgate
+623,Brokeback Mountain,2005.0,R,Drama,Ang Lee,_Jake Gyllenhaal_Heath Ledger_Michelle Williams_Randy Quaid,134,83043761,Focus Features
+624,The Usual Suspects,1995.0,R,Crime,Bryan Singer,_Kevin Spacey_Gabriel Byrne_Chazz Palminteri_Stephen Baldwin,106,23341568,Gramercy Pictures (I)
+625,Slither,2006.0,R,Comedy,James Gunn,_Nathan Fillion_Elizabeth Banks_Michael Rooker_Don Thompson,95,7774730,Universal Pictures
+626,Attack the Block,2011.0,R,Comedy,Joe Cornish,_John Boyega_Jodie Whittaker_Alex Esmail_Leeon Jones,88,1024175,Screen Gems
+627,Drive,2011.0,R,Drama,Nicolas Winding Refn,_Ryan Gosling_Carey Mulligan_Bryan Cranston_Albert Brooks,100,35060689,FilmDistrict
+628,Nightcrawler,2014.0,R,Crime,Dan Gilroy,_Jake Gyllenhaal_Rene Russo_Bill Paxton_Riz Ahmed,117,32381218,Open Road Films (II)
+629,Shakespeare in Love,1998.0,R,Romance,John Madden,_Gwyneth Paltrow_Joseph Fiennes_Geoffrey Rush_Tom Wilkinson,123,100317794,Buena Vista Television
+630,Scott Pilgrim vs. the World,2010.0,PG-13,Romance,Edgar Wright,_Michael Cera_Mary Elizabeth Winstead_Kieran Culkin_Alison Pill,112,31494270,Universal Pictures
+631,Spider-Man 2,2004.0,PG-13,Fantasy,Sam Raimi,_Tobey Maguire_Kirsten Dunst_Alfred Molina_James Franco,127,373585825,Columbia Pictures
+632,Sicario,2015.0,R,Crime,Denis Villeneuve,_Benicio Del Toro_Emily Blunt_Jeffrey Donovan_Jon Bernthal_Josh Brolin_Victor Garber,121,46889293,Lionsgate
+633,Frequency,2000.0,PG-13,Thriller,Gregory Hoblit,_Dennis Quaid_Jim Caviezel_Shawn Doyle_Elizabeth Mitchell,118,45010278,New Line Cinema
+634,Adaptation.,2002.0,R,Crime,Spike Jonze,_Nicolas Cage_Meryl Streep_Chris Cooper_Tilda Swinton,114,22245861,Sony Pictures Entertainment (SPE)
+635,Dead Poets Society,1989.0,PG,Drama,Peter Weir,_Robin Williams_Robert Sean Leonard_Ethan Hawke_Josh Charles,128,95860116,Buena Vista Pictures
+636,The Girl with the Dragon Tattoo,2010.0,R,Crime,Niels Arden Oplev,_Michael Nyqvist_Noomi Rapace_Ewa Fröling_Lena Endre,152,10095170,Music Box Films
+637,American Graffiti,1973.0,PG,Comedy,George Lucas,_Bo Hopkins_Candy Clark_Charles Martin Smith_Cindy Williams_Mackenzie Phillips_Manuel Padilla Jr._Paul Le Mat_Richard Dreyfuss_Ron Howard_Wolfman Jack,110,115000000,Universal Pictures
+638,Alien,1979.0,R,Horror,Ridley Scott,_Sigourney Weaver_Tom Skerritt_John Hurt_Veronica Cartwright,117,78900000,Twentieth Century Fox Film Corporation
+639,From Russia with Love,1964.0,PG,Thriller,Terence Young,_Sean Connery_Robert Shaw_Lotte Lenya_Daniela Bianchi,115,24796765,United Artists
+640,Mad Max: Fury Road,2015.0,R,Thriller,George Miller,_Charlize Theron_John Howard_Nathan Jones_Nicholas Hoult_Riley Keough_Tom Hardy_Zoë Kravitz,120,153636354,Warner Bros.
+641,Chungking Express,1996.0,PG-13,Romance,Kar Wai Wong,_Brigitte Lin_Takeshi Kaneshiro_Tony Chiu-Wai Leung_Faye Wong,102,600200,Miramax Films
+642,"Synecdoche, New York",2008.0,R,Comedy,Charlie Kaufman,_Philip Seymour Hoffman_Samantha Morton_Michelle Williams_Catherine Keener,124,3081925,Sony Pictures Classics
+643,10 Cloverfield Lane,2016.0,PG-13,Horror,Dan Trachtenberg,_John Goodman_Mary Elizabeth Winstead_John Gallagher Jr._Douglas M. Griffin,104,71897215,Paramount Pictures
+644,The World's End,2013.0,R,Comedy,Edgar Wright,_Martin Freeman_Nick Frost_Rosamund Pike_Simon Pegg,109,26004851,Focus Features
+645,The Perks of Being a Wallflower,2012.0,PG-13,Romance,Stephen Chbosky,_Emma Watson_Ezra Miller_Logan Lerman_Paul Rudd,102,17738570,Summit Entertainment
+646,The Post,2017.0,PG-13,Thriller,Steven Spielberg,_Alison Brie_Bob Odenkirk_Bradley Whitford_Bruce Greenwood_Carrie Coon_David Cross_Jesse Plemons_Matthew Rhys_Meryl Streep_Michael Stuhlbarg_Sarah Paulson_Tom Hanks_Tracy Letts_Zach Woods,116,81482481,Twentieth Century Fox Film Corporation
+647,Star Wars: Episode III - Revenge of the Sith,2005.0,PG-13,Fantasy,George Lucas,_Hayden Christensen_Natalie Portman_Ewan McGregor_Samuel L. Jackson,140,380262555,Twentieth Century Fox Film Corporation
+648,Frantic,1988.0,R,Crime,Roman Polanski,_Alain Doutey_Betty Buckley_Djiby Soumare_Dominique Virton_Emmanuelle Seigner_Gérard Klein_Harrison Ford_Jacques Ciron_Laurent Spielvogel_Stéphane D'Audeville,120,17637950,Warner Bros.
+649,Argo,2012.0,R,Drama,Ben Affleck,_Ben Affleck_Bryan Cranston_John Goodman_Alan Arkin,120,136025503,Warner Bros.
+650,The Grapes of Wrath,1940.0,Passed,History,John Ford,_Charley Grapewin_Dorris Bowdon_Eddie Quillan_Henry Fonda_Jane Darwell_John Carradine_John Qualen_O.Z. Whitehead_Russell Simpson_Zeffie Tilbury,129,-1000,Twentieth Century Fox
+651,Her,2013.0,R,Romance,Spike Jonze,_Amy Adams_Chris Pratt_Joaquin Phoenix_Olivia Wilde_Rooney Mara_Samantha Morton_Scarlett Johansson,126,25568251,Warner Bros. Pictures
+652,Inside Out,2015.0,PG,Family,_Pete Docter_Ronaldo Del Carmen,_Amy Poehler_Bill Hader_Lewis Black_Mindy Kaling_Phyllis Smith,94,356461711,Walt Disney Studios Motion Pictures
+653,Before Sunset,2004.0,R,Romance,Richard Linklater,_Ethan Hawke_Julie Delpy_Vernon Dobtcheff_Louise Lemoine Torrès,80,5792822,Warner Independent Pictures (WIP)
+654,The Hateful Eight,2015.0,R,Western,Quentin Tarantino,_Bruce Dern_Channing Tatum_Demián Bichir_Jennifer Jason Leigh_Kurt Russell_Michael Madsen_Samuel L. Jackson_Tim Roth_Walton Goggins,0,54117416,"Weinstein Company, The"
+655,WALL·E,2008.0,G,Family,Andrew Stanton,_Ben Burtt_Elissa Knight_Jeff Garlin_Fred Willard,98,223808164,Walt Disney Studios Motion Pictures
+656,Platoon,1987.0,R,War,Oliver Stone,_Charlie Sheen_Tom Berenger_Willem Dafoe_Keith David,120,138530565,Orion Pictures
+657,Pulp Fiction,1994.0,R,Crime,Quentin Tarantino,_John Travolta_Uma Thurman_Samuel L. Jackson_Bruce Willis,154,107928762,Miramax Films
+658,Office Space,1999.0,R,Crime,Mike Judge,_Ron Livingston_Jennifer Aniston_David Herman_Ajay Naidu,89,10824921,Twentieth Century Fox Film Corporation
+659,Roman Holiday,1953.0,Not Rated,Romance,William Wyler,_Gregory Peck_Audrey Hepburn_Eddie Albert_Hartley Power,118,-1000,Paramount Pictures
+660,Wallace & Gromit: The Curse of the Were-Rabbit,2005.0,G,Family,_Nick Park_Steve Box,_Peter Sallis_Helena Bonham Carter_Ralph Fiennes_Peter Kay,85,56110897,DreamWorks Distribution
+661,The Fault in Our Stars,2014.0,PG-13,Romance,Josh Boone,_Ana Dela Cruz_Ansel Elgort_Laura Dern_Lotte Verbeek_Nat Wolff_Randy Kovitz_Sam Trammell_Shailene Woodley_Willem Dafoe,126,124872350,Fox 2000 Pictures
+662,American Gangster,2007.0,R,Crime,Ridley Scott,_Denzel Washington_Russell Crowe_Chiwetel Ejiofor_Josh Brolin,157,130164645,Universal Pictures
+663,Blue Is the Warmest Color,2013.0,NC-17,Romance,Abdellatif Kechiche,_Ad_Alma Jodorowsky_Anne Loiret_Aurélien Recoing_Benjamin Siksou_Beno_Catherine Salée_Jeremie Laheurte_Léa Seydoux_Mona Walravens_Salim Kechiouche_Sandor Funtek,179,2199675,Sundance Selects
+664,The Guest,2014.0,R,Thriller,Adam Wingard,_Dan Stevens_Joel Moore_Leland Orser_Maika Monroe_Sheila Kelley,99,322600,Picturehouse
+665,The Last Temptation of Christ,1988.0,R,Drama,Martin Scorsese,_Willem Dafoe_Harvey Keitel_Barbara Hershey_Paul Greco,164,7630564,Universal Pictures
+666,The Fugitive,1993.0,PG-13,Crime,Andrew Davis,_Harrison Ford_Tommy Lee Jones_Sela Ward_Julianne Moore,130,183875760,Warner Bros. Pictures
+667,Rosemary's Baby,1968.0,R,Horror,Roman Polanski,_Mia Farrow_John Cassavetes_Ruth Gordon_Sidney Blackmer,137,-1000,Paramount Pictures
+668,While You Were Sleeping,1995.0,PG,Romance,Jon Turteltaub,_Sandra Bullock_Bill Pullman_Peter Gallagher_Peter Boyle,103,81057016,Buena Vista Pictures
+669,3:10 to Yuma,2007.0,R,Western,James Mangold,_Russell Crowe_Christian Bale_Ben Foster_Logan Lerman,122,53606916,Lionsgate
+670,Star Wars: Episode VII - The Force Awakens,2015.0,PG-13,Fantasy,J.J. Abrams,_Adam Driver_Carrie Fisher_Daisy Ridley_Domhnall Gleeson_Harrison Ford_John Boyega_Mark Hamill_Oscar Isaac,135,936662225,Walt Disney Studios Motion Pictures
+671,Before Sunrise,1995.0,R,Romance,Richard Linklater,_Ethan Hawke_Julie Delpy_Andrea Eckert_Hanno Pöschl,105,5535405,Columbia Pictures
+672,The Secret World of Arrietty,2012.0,G,Family,Hiromasa Yonebayashi,_Bridgit Mendler_Amy Poehler_Will Arnett_Moises Arias,94,19202743,Walt Disney Studios Motion Pictures
+673,Knocked Up,2007.0,R,Romance,Judd Apatow,_Seth Rogen_Katherine Heigl_Paul Rudd_Leslie Mann,129,148734225,Universal Pictures
+674,Boyz n the Hood,1991.0,R,Crime,John Singleton,_Cuba Gooding Jr._Laurence Fishburne_Hudhail Al-Amir_Lloyd Avery II,112,57504069,Columbia Pictures
+675,Rango,2011.0,PG,Family,Gore Verbinski,_Johnny Depp_Isla Fisher_Timothy Olyphant_Abigail Breslin,107,123477607,Paramount Pictures
+676,Enemy of the State,1998.0,R,Thriller,Tony Scott,_Will Smith_Gene Hackman_Jon Voight_Lisa Bonet,132,111549836,Buena Vista Pictures
+677,A River Runs Through It,1992.0,PG,Drama,Robert Redford,_Craig Sheffer_Brad Pitt_Tom Skerritt_Brenda Blethyn,123,43440294,Columbia Pictures
+678,Star Wars: Episode V - The Empire Strikes Back,1980.0,PG,Sci-Fi,Irvin Kershner,_Mark Hamill_Harrison Ford_Carrie Fisher_Billy Dee Williams,124,290475067,Twentieth Century Fox Film Corporation
+679,Who Framed Roger Rabbit,1988.0,PG,Family,Robert Zemeckis,_Bob Hoskins_Christopher Lloyd_Joanna Cassidy_Charles Fleischer,104,156452370,Buena Vista Pictures
+680,The Naked Gun: From the Files of Police Squad!,1988.0,PG-13,Crime,David Zucker,_Leslie Nielsen_Priscilla Presley_O.J. Simpson_Ricardo Montalban,85,78041829,Paramount Pictures
+681,Raiders of the Lost Ark,1981.0,PG,Adventure,Steven Spielberg,_Harrison Ford_John Rhys-Davies_Karen Allen_Paul Freeman,115,248159971,Paramount Pictures
+682,Kick-Ass,2010.0,R,Crime,Matthew Vaughn,_Aaron Taylor-Johnson_Nicolas Cage_Chloë Grace Moretz_Garrett M. Brown,117,48071303,Lionsgate
+683,The Virgin Suicides,2000.0,R,Mystery,Sofia Coppola,_Kirsten Dunst_Josh Hartnett_James Woods_Kathleen Turner,97,4859475,Paramount Home Video
+684,Michael Clayton,2007.0,R,Crime,Tony Gilroy,_George Clooney_Tilda Swinton_Tom Wilkinson_Michael O'Keefe,119,49033882,Warner Bros. Pictures
+685,Finding Neverland,2004.0,PG,Family,Marc Forster,_Johnny Depp_Kate Winslet_Julie Christie_Radha Mitchell,106,51680613,Miramax Films
+686,Paprika,2007.0,R,Animation,Satoshi Kon,_Megumi Hayashibara_Tôru Emori_Katsunosuke Hori_Tôru Furuya,90,881302,Sony Pictures Classics
+687,Sling Blade,1996.0,R,Drama,Billy Bob Thornton,_Billy Bob Thornton_Dwight Yoakam_J.T. Walsh_John Ritter,135,24475416,Miramax Films
+688,Natural Born Killers,1994.0,R,Crime,Oliver Stone,_Woody Harrelson_Juliette Lewis_Tom Sizemore_Rodney Dangerfield,118,50282766,Warner Bros. Pictures
+689,Brooklyn,2015.0,PG-13,Romance,John Crowley,_Saoirse Ronan_Emory Cohen_Domhnall Gleeson_Jim Broadbent,111,38317535,Fox Searchlight Pictures
+690,25th Hour,2002.0,R,Drama,Spike Lee,_Edward Norton_Barry Pepper_Philip Seymour Hoffman_Rosario Dawson,135,13060843,Buena Vista Pictures
+691,Quiz Show,1994.0,PG-13,History,Robert Redford,_Ralph Fiennes_John Turturro_Rob Morrow_Paul Scofield,133,24822619,Buena Vista Pictures
+692,Fight Club,1999.0,R,Drama,David Fincher,_Brad Pitt_Edward Norton_Meat Loaf_Zach Grenier,139,37030102,Twentieth Century Fox Film Corporation
+693,The Lord of the Rings: The Return of the King,2003.0,PG-13,Fantasy,Peter Jackson,_Elijah Wood_Viggo Mortensen_Ian McKellen_Orlando Bloom,201,377845905,New Line Cinema
+694,The East,2013.0,PG-13,Thriller,Zal Batmanglij,_Aldis Hodge_Alexander Skarsgård_Brit Marling_Danielle Macdonald_Ellen Page_Hillary Baack_Jason Ritter_Julia Ormond_Patricia Clarkson_Shiloh Fernandez_Toby Kebbell,116,2268296,Fox Searchlight Pictures
+695,Blade Runner 2049,2017.0,R,Thriller,Denis Villeneuve,_Ana de Armas_Barkhad Abdi_Dave Bautista_David Dastmalchian_Edward James Olmos_Elarica Gallacher_Harrison Ford_Jared Leto_Lennie James_Mackenzie Davis_Mark Arnold_Robin Wright_Ryan Gosling_Sylvia Hoeks_Tómas Lemarquis_Vilma Szécsi_Wood Harris,164,92054159,Warner Bros. Pictures
+696,King Kong,1933.0,Not Rated,Horror,_Ernest B. Schoedsack_Merian C. Cooper,_Bruce Cabot_Fay Wray_Frank Reicher_James Flavin_King Kong_Noble Johnson_Robert Armstrong_Sam Hardy_Steve Clemente_Walter Ackerman,100,10000000,RKO Radio Pictures
+697,The Road Warrior,1982.0,R,Thriller,George Miller,_Mel Gibson_Bruce Spence_Michael Preston_Max Phipps,94,12465371,Warner Bros.
+698,Frank,2014.0,R,Music,Lenny Abrahamson,_Michael Fassbender_Domhnall Gleeson_Maggie Gyllenhaal_Moira Brooker,95,644906,Magnolia Pictures
+699,Glengarry Glen Ross,1992.0,R,Drama,James Foley,_Al Pacino_Jack Lemmon_Alec Baldwin_Alan Arkin,100,10725228,New Line Cinema
+700,Kung Fu Panda 3,2016.0,PG,Family,_Alessandro Carloni_Jennifer Yuh Nelson,_Angelina Jolie_Bryan Cranston_David Cross_Dustin Hoffman_J.K. Simmons_Jack Black_Jackie Chan_Lucy Liu_Seth Rogen,95,143528619,Twentieth Century Fox Film Corporation
+701,Hannah and Her Sisters,1986.0,PG-13,Romance,Woody Allen,_Barbara Hershey_Dianne Wiest_Mia Farrow_Michael Caine_Woody Allen,103,40084041,Orion Pictures Corporation
+702,Saving Private Ryan,1998.0,R,War,Steven Spielberg,_Tom Hanks_Matt Damon_Tom Sizemore_Edward Burns,169,216540909,DreamWorks Distribution
+703,Silence,2016.0,R,History,Martin Scorsese,_Adam Driver_Andrew Garfield_Ciarán Hinds_Issei Ogata_Liam Neeson_Shinya Tsukamoto_Tadanobu Asano_Yoshi Oida,161,7079191,Paramount Pictures
+704,Good Bye Lenin!,2004.0,R,Romance,Wolfgang Becker,_Chulpan Khamatova_Daniel Brühl_Florian Lukas_Katrin Saß,121,4064200,Sony Pictures Classics
+705,Furious 7,2015.0,PG-13,Crime,James Wan,_Dwayne Johnson_Jason Statham_Paul Walker_Tyrese Gibson_Vin Diesel,137,353007020,Universal Pictures
+706,Short Term 12,2013.0,R,Drama,Destin Daniel Cretton,_Alex Calloway_Brie Larson_Frantz Turner_John Gallagher Jr._Kaitlyn Dever_Kevin Hernandez_Lakeith Stanfield_Lydia Du Veaux_Rami Malek_Stephanie Beatriz,96,1010414,Cinedigm
+707,Raging Bull,1980.0,R,Sport,Martin Scorsese,_Robert De Niro_Cathy Moriarty_Joe Pesci_Frank Vincent,0,23383987,United Artists
+708,Eastern Promises,2007.0,R,Crime,David Cronenberg,_Naomi Watts_Viggo Mortensen_Armin Mueller-Stahl_Josef Altin,100,17114882,Focus Features
+709,'71,2015.0,R,War,Yann Demange,_Charlie Murphy_Jack O'Connell_Paul Anderson_Paul Popplewell_Sam Hazeldine_Sam Reid_Sean Harris,99,1268760,Roadside Attractions
+710,Star Trek IV: The Voyage Home,1986.0,PG,Comedy,Leonard Nimoy,_William Shatner_Leonard Nimoy_DeForest Kelley_James Doohan,119,109713132,Paramount Pictures
+711,Poltergeist,1982.0,PG,Horror,Tobe Hooper,_JoBeth Williams_Heather O'Rourke_Craig T. Nelson_Beatrice Straight,114,76606280,MGM/UA Entertainment Company
+712,The Hurt Locker,2009.0,R,War,Kathryn Bigelow,_Jeremy Renner_Anthony Mackie_Brian Geraghty_Guy Pearce,131,17017811,Summit Entertainment
+713,In the Heat of the Night,1967.0,Not Rated,Crime,Norman Jewison,_Lee Grant_Rod Steiger_Sidney Poitier_Warren Oates,109,24379978,United Artists
+714,A Fish Called Wanda,1988.0,R,Crime,_Charles Crichton_John Cleese,_John Cleese_Jamie Lee Curtis_Kevin Kline_Michael Palin,108,63493712,MGM/UA Distribution Company
+715,Four Weddings and a Funeral,1994.0,R,Romance,Mike Newell,_Hugh Grant_Andie MacDowell_James Fleet_Simon Callow,117,52700832,Gramercy Pictures (I)
+716,Kill Bill: Vol. 2,2004.0,R,Crime,Quentin Tarantino,_Daryl Hannah_David Carradine_Michael Madsen_Uma Thurman,136,66208183,Miramax Films
+717,Requiem for a Dream,2000.0,R,Drama,Darren Aronofsky,_Ellen Burstyn_Jared Leto_Jennifer Connelly_Marlon Wayans,102,3635482,Artisan Entertainment
+718,Bottle Rocket,1996.0,R,Crime,Wes Anderson,_Luke Wilson_Owen Wilson_Ned Dowd_Shea Fowler,91,560069,Sony Pictures Releasing
+719,Inside Llewyn Davis,2013.0,R,Music,_Ethan Coen_Joel Coen,_Carey Mulligan_Garrett Hedlund_John Goodman_Justin Timberlake_Oscar Isaac,104,13235319,CBS Films
+720,Seven Psychopaths,2012.0,R,Crime,Martin McDonagh,_Christopher Walken_Colin Farrell_Sam Rockwell_Tom Waits_Woody Harrelson,110,15024049,CBS Films
+721,Hell or High Water,2016.0,R,Crime,David Mackenzie,_Chris Pine_Ben Foster_Jeff Bridges_Gil Birmingham,102,26862450,CBS Films
+722,Eyes Wide Shut,1999.0,R,Romance,Stanley Kubrick,_Tom Cruise_Nicole Kidman_Todd Field_Sydney Pollack,159,55691208,Warner Bros. Pictures
+723,Spirited Away,2002.0,PG,Family,_Hayao Miyazaki_Kirk Wise,_Daveigh Chase_Suzanne Pleshette_Miyu Irino_Rumi Hiiragi,125,10055859,Walt Disney Studios
+724,Traffic,2000.0,R,Crime,Steven Soderbergh,_Michael Douglas_Benicio Del Toro_Catherine Zeta-Jones_Jacob Vargas,147,124115725,USA Films
+725,A League of Their Own,1992.0,PG,Comedy,Penny Marshall,_Tom Hanks_Geena Davis_Lori Petty_Madonna,128,107533928,Columbia Pictures
+726,"Monsters, Inc.",2001.0,G,Family,_David Silverman_Lee Unkrich_Pete Docter,_Billy Crystal_John Goodman_Mary Gibbs_Steve Buscemi,92,289916256,Buena Vista Pictures
+727,Run Lola Run,1999.0,R,Crime,Tom Tykwer,_Franka Potente_Moritz Bleibtreu_Herbert Knaup_Nina Petri,80,7267585,Sony Pictures Classics
+728,Ocean's Eleven,2001.0,PG-13,Crime,Steven Soderbergh,_George Clooney_Brad Pitt_Julia Roberts_Matt Damon,116,183405771,Warner Bros. Pictures
+729,The Birds,1963.0,PG-13,Romance,Alfred Hitchcock,_Charles McGraw_Ethel Griffies_Jessica Tandy_Joe Mantell_Lonny Chapman_Rod Taylor_Ruth McDevitt_Suzanne Pleshette_Tippi Hedren_Veronica Cartwright,119,11403529,Universal Pictures
+730,Sense and Sensibility,1995.0,PG,Romance,Ang Lee,_Emma Thompson_Kate Winslet_James Fleet_Tom Wilkinson,136,43182776,Columbia Pictures
+731,Logan,2017.0,R,Thriller,James Mangold,_Boyd Holbrook_Dafne Keen_Elizabeth Rodriguez_Hugh Jackman_Patrick Stewart_Richard E. Grant_Stephen Merchant,137,226277068,Twentieth Century Fox Film Corporation
+732,A Christmas Story,1983.0,PG,Family,Bob Clark,_Peter Billingsley_Melinda Dillon_Darren McGavin_Scott Schwartz,94,19294144,American Broadcasting Company (ABC)
+733,Titanic,1997.0,PG-13,Romance,James Cameron,_Leonardo DiCaprio_Kate Winslet_Billy Zane_Kathy Bates,194,659325379,Paramount Pictures
+734,Captain Phillips,2013.0,PG-13,Crime,Paul Greengrass,_Barkhad Abdi_Barkhad Addirahman_Catherine Keener_Tom Hanks,134,107100855,Columbia Pictures
+735,Leaving Las Vegas,1995.0,R,Romance,Mike Figgis,_Nicolas Cage_Elisabeth Shue_Julian Sands_Richard Lewis,111,31968347,MGM Home Entertainment
+736,Animal House,1978.0,R,Comedy,John Landis,_John Belushi_Karen Allen_Tom Hulce_Stephen Furst,109,141600000,Universal Pictures
+737,Spartacus,1960.0,PG-13,War,Stanley Kubrick,_Kirk Douglas_Laurence Olivier_Jean Simmons_Charles Laughton,0,30000000,Universal Pictures
+738,Mission: Impossible - Rogue Nation,2015.0,PG-13,Thriller,Christopher McQuarrie,_Alec Baldwin_Jeremy Renner_Rebecca Ferguson_Simon Pegg_Tom Cruise_Ving Rhames,131,195042377,Paramount Pictures
+739,Rise of the Planet of the Apes,2011.0,PG-13,Sci-Fi,Rupert Wyatt,_James Franco_Andy Serkis_Freida Pinto_Karin Konoval,110,176760185,Twentieth Century Fox Film Corporation
+740,The Good Dinosaur,2015.0,PG,Family,Peter Sohn,_Frances McDormand_Jack Bright_Jack McGraw_Jeffrey Wright_Maleah Nipay-Padilla_Marcus Scribner_Peter Sohn_Raymond Ochoa_Ryan Teeple,93,123087120,Walt Disney Studios Motion Pictures
+741,Das Boot,1982.0,R,War,Wolfgang Petersen,_Jürgen Prochnow_Herbert Grönemeyer_Klaus Wennemann_Hubertus Bengsch,149,11487676,Triumph Releasing Corporation
+742,Paterson,2016.0,R,Romance,Jim Jarmusch,_Adam Driver_Golshifteh Farahani_Nellie_Rizwan Manji,118,2141423,Bleecker Street Media
+743,Ip Man 2,2011.0,R,History,Wilson Yip,_Donnie Yen_Xiaoming Huang_Sammo Kam-Bo Hung_Lynn Hung,108,205675,Well Go
+744,Dawn of the Planet of the Apes,2014.0,PG-13,Thriller,Matt Reeves,_Andy Serkis_Gary Oldman_Jason Clarke_Judy Greer_Keri Russell_Kodi Smit-McPhee,130,208545589,Twentieth Century Fox Film Corporation
+745,Annihilation,2018.0,R,Horror,Alex Garland,_Benedict Wong_Cosmo Jarvis_David Gyasi_Edward Mannering_Gina Rodriguez_Honey Holmes_Jennifer Jason Leigh_John Schwab_Natalie Portman_Oscar Isaac_Sonoya Mizuno_Tessa Thompson_Tuva Novotny,115,30325089,Paramount Pictures
+746,Stir of Echoes,1999.0,R,Horror,David Koepp,_Kevin Bacon_Zachary David Cope_Kathryn Erbe_Illeana Douglas,99,21133087,Artisan Entertainment
+747,Evil Dead II,1987.0,R,Comedy,Sam Raimi,_Bruce Campbell_Sarah Berry_Dan Hicks_Kassie Wesley DePaiva,84,5923044,Rosebud Communications Releasing
+748,eXistenZ,1999.0,R,Horror,David Cronenberg,_Jude Law_Jennifer Jason Leigh_Ian Holm_Willem Dafoe,97,2840417,Dimension Films
+749,Brazil,1985.0,R,Fantasy,Terry Gilliam,_Jonathan Pryce_Kim Greist_Robert De Niro_Katherine Helmond,132,9929135,Universal Pictures
+750,Miller's Crossing,1990.0,R,Crime,_Ethan Coen_Joel Coen,_Gabriel Byrne_Albert Finney_John Turturro_Marcia Gay Harden,115,5080409,Twentieth Century Fox Film Corporation
+751,Patton,1970.0,GP,War,Franklin J. Schaffner,_George C. Scott_Karl Malden_Stephen Young_Michael Strong,172,61700000,Twentieth Century Fox Film Corporation
+752,Fatal Attraction,1987.0,R,Thriller,Adrian Lyne,_Michael Douglas_Glenn Close_Anne Archer_Ellen Latzen,119,156645693,Paramount Pictures
+753,Fearless,2006.0,PG-13,Sport,Ronny Yu,_Jet Li_Li Sun_Yong Dong_Yun Qu,103,24633730,Rogue Pictures
+754,RoboCop,1987.0,R,Crime,Paul Verhoeven,_Peter Weller_Nancy Allen_Dan O'Herlihy_Ronny Cox,102,53424681,Orion Pictures Corporation
+755,Aliens,1986.0,R,Thriller,James Cameron,_Sigourney Weaver_Michael Biehn_Carrie Henn_Paul Reiser,137,85160248,Twentieth Century Fox Film Corporation
+756,Being John Malkovich,1999.0,R,Romance,Spike Jonze,_Cameron Diaz_Catherine Keener_John Cusack_John Malkovich,112,22858926,USA Films
+757,Donnie Brasco,1997.0,R,Crime,Mike Newell,_Al Pacino_Johnny Depp_Michael Madsen_Bruno Kirby,127,41909762,TriStar Pictures
+758,Harry Potter and the Deathly Hallows: Part 1,2010.0,PG-13,Family,David Yates,_Daniel Radcliffe_Emma Watson_Rupert Grint_Bill Nighy,153,295983305,Warner Bros. Pictures
+759,Rachel Getting Married,2008.0,R,Romance,Jonathan Demme,_Anne Hathaway_Rosemarie DeWitt_Debra Winger_Sebastian Stan,113,12796277,Sony Pictures Classics
+760,The Simpsons Movie,2007.0,PG-13,Animation,David Silverman,_Dan Castellaneta_Hank Azaria_Harry Shearer_Julie Kavner_Nancy Cartwright_Yeardley Smith,87,183135014,Twentieth Century Fox Film Corporation
+761,The Hunger Games: Mockingjay - Part 2,2015.0,PG-13,Thriller,Francis Lawrence,_Jennifer Lawrence_Josh Hutcherson_Liam Hemsworth_Philip Seymour Hoffman,146,281723902,Lionsgate
+762,The Color Purple,1985.0,PG-13,Drama,Steven Spielberg,_Danny Glover_Whoopi Goldberg_Oprah Winfrey_Margaret Avery,154,98467863,Warner Bros.
+763,Do the Right Thing,1989.0,R,Comedy,Spike Lee,_Danny Aiello_Ossie Davis_Ruby Dee_Richard Edson,120,27545445,Universal Pictures
+764,The Last Emperor,1987.0,PG-13,History,Bernardo Bertolucci,_John Lone_Joan Chen_Peter O'Toole_Ruocheng Ying,163,43984230,Columbia Pictures
+765,The Place Beyond the Pines,2013.0,R,Crime,Derek Cianfrance,_Ryan Gosling_Bradley Cooper_Eva Mendes_Craig Van Hook,140,21383298,Focus Features
+766,The Hunger Games,2012.0,PG-13,Thriller,Gary Ross,_Jennifer Lawrence_Josh Hutcherson_Liam Hemsworth_Stanley Tucci,142,408010692,Lionsgate
+767,The Big Lebowski,1998.0,R,Crime,_Ethan Coen_Joel Coen,_Jeff Bridges_John Goodman_Julianne Moore_Steve Buscemi,117,17498804,Gramercy Pictures (I)
+768,The Treasure of the Sierra Madre,1948.0,Not Rated,Western,John Huston,_Alfonso Bedoya_Arturo Soto Rangel_Barton MacLane_Bruce Bennett_Humphrey Bogart_José Torvay_Manuel Dondé_Margarito Luna_Tim Holt_Walter Huston,126,5014000,Warner Bros.
+769,Harry Potter and the Goblet of Fire,2005.0,PG-13,Family,Mike Newell,_Daniel Radcliffe_Emma Watson_Rupert Grint_Eric Sykes,157,290013036,Warner Bros. Pictures
+770,Lion,2016.0,PG-13,Drama,Garth Davis,_Dev Patel_Nicole Kidman_Rooney Mara_Sunny Pawar,118,51694854,"Weinstein Company, The"
+771,Bolt,2008.0,PG,Family,_Byron Howard_Chris Williams,_John Travolta_Miley Cyrus_Susie Essman_Mark Walton,96,114053579,Walt Disney Studios Motion Pictures
+772,American Beauty,1999.0,R,Drama,Sam Mendes,_Kevin Spacey_Annette Bening_Thora Birch_Wes Bentley,122,130096601,DreamWorks Distribution
+773,Darkest Hour,2017.0,PG-13,War,Joe Wright,_Adrian Rawlins_Anna Burnett_Beatrice Stein_Ben Mendelsohn_Charley Palmer Merkell_David Schofield_Gary Oldman_Hannah Steele_Hilton McRae_Jordan Waller_Kristin Scott Thomas_Lily James_Nicholas Jones_Philip Martin Brown_Pip Torrens_Richard Lumsden_Ronald Pickup_Samuel West_Stephen Dillane,125,56348380,Focus Features
+774,Heat,1995.0,R,Crime,Michael Mann,_Al Pacino_Jon Voight_Robert De Niro_Val Kilmer,170,67436818,Warner Bros. Pictures
+775,Never Let Me Go,2010.0,R,Thriller,Mark Romanek,_Keira Knightley_Carey Mulligan_Andrew Garfield_Izzy Meikle-Small,103,2434652,Fox Searchlight Pictures
