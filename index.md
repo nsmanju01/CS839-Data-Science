@@ -26,4 +26,8 @@
 + [Code Directory](https://github.com/nsmanju01/CS839-Data-Science/tree/master/Stage-3/Code)
 + [Stage-3 Report](https://github.com/nsmanju01/CS839-Data-Science/blob/master/Stage-3/Stage-3-report.pdf)
 
+## Stage 4 Report
++ [Data Directory](https://github.com/nsmanju01/CS839-Data-Science/tree/master/stage-4/data)
++ [Code Directory](https://github.com/nsmanju01/CS839-Data-Science/tree/master/stage-4/src)
++ [Stage-4 Report](https://github.com/nsmanju01/CS839-Data-Science/blob/master/stage-4/Stage4_Report.pdf)
 
